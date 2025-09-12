@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Mono Pass Thru" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Mono Pass Thru.trkpreset">
+  <RACKFILTER name="Mono Pass Thru" id="2f545ba">
+    <FILTERINSTANCE x="0.496052623" y="0.0337837823">
+      <FILTER type="text" title="Read Me" body="Mono Pass Thru&#10;&#10;Great for: Aux Sends/Returns&#10;&#10;Can be used for advanced send and return routing.  Put a Mono Pass Thru on a track as a send with its Dry Setting at Max, and Wet setting at Min.&#10;&#10;Place another instance on a return track with the oposite Dry/Wet sendings.  It will act as an aux send."
+              id="0/2a3c845"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/0" dstPin="0"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/0" dstPin="1"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output" midi="0"/>
+  </RACKFILTER>
+</PRESET>

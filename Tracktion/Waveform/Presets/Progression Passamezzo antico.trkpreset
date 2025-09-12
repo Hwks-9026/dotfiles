@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Passamezzo antico" tags="Pattern|Progression"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Progression Passamezzo antico.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="vii"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="iii"/>
+    <PROGRESSIONITEM name="vii"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="i"/>
+  </PROGRESSION>
+</PRESET>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Good Love" tags="Pattern|Progression" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Progression Good Love.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="iv"/>
+  </PROGRESSION>
+</PRESET>

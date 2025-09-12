@@ -1,0 +1,5626 @@
+ls
+fastfetch
+cd /run/media/hwks/BACKUP/
+cp -r Pictures/ ~
+swww
+yay swww
+cd ~
+swww pic
+cd git
+ls
+cd c4
+ls
+git status
+cd ..
+swww Pictures/gowall/848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+swww -img Pictures/gowall/848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+swww --image Pictures/gowall/848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+swww
+swww img Pictures/gowall/848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+swww-daemon
+swww img Pictures/gowall/848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+ls
+yay hyprpanel
+bash
+exit
+bash
+z
+hyprpanel
+yay hyprpanel
+hyprpanel
+waybar
+cd .config
+ls
+cd waybar
+ls
+nvim config
+tmux
+waybar
+ls
+waybar
+exit
+ls
+cd waybar/
+ls
+./waybar.sh
+btop
+waybar
+ls
+cd ~/git
+ls
+cd c4p
+c4
+cd c4
+ls
+cargo
+yay cargo
+rustup install cargo
+rustup
+rustup cargo
+rustup
+rustup which cargo
+rustup default stable
+cargo build -r
+yay llvm
+cargo build -r
+yay llvm
+cargo build -r
+cargo build
+cargo build -r
+cargo
+cargo clean
+cargo build -r
+ls
+yay obs
+cd ~/.confi
+cd ~/.config
+ls
+rm obs-studio
+yay obs
+yay emacs
+yay miniforge
+cd /opt
+ls
+cd miniforge/
+ls
+cd etc
+cd profile.d/
+nvim .config/foot/foot.ini
+ls
+rm Lunainstall.sh
+ls
+nvim install.sh
+./install.sh
+chmod +x install.sh
+./install.sh
+yay vesktop
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs<\n>~/.config/emacs/bin/doom install
+rm .config/emacs
+rm -r .config/emacs
+rm .config/doom
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs<\n>~/.config/emacs/bin/doom install
+cd .config/emacs
+ls
+cd ..
+rm -r emacs
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs<\n>~/.config/emacs/bin/doom install
+nvim
+cd .config/doom
+nvim init.el
+emacs 
+emacs --daemon &
+btop
+emacs --daemon &
+btop
+emacs --daemon &
+btop
+nvim config.el
+btop
+btoip
+btop
+vesktop
+rm .config/vesktop
+vesktop
+curl -s "https://raw.githubusercontent.com/shvedes/discord-gruvbox/refs/heads/main/install.sh" | bash
+yay spotify
+4
+yay spotify
+spotify
+yay spotify
+ncurses
+ncspot
+yay spotify
+yay spice
+spicetify 
+spicetify backup apply
+vim
+nvim
+yay spotify
+spicetify backup apply
+cd .confid
+cd .config
+ls
+rm spotify
+rm spotify-tui
+spotify
+yay -r Spotify-Launcher
+yay -r spotify-launcher
+yay spotify
+yay -R spotify
+yay -R spotify-launcher
+spicetify backup apply
+spicetify -c
+git clone https://github.com/giovanebribeiro/spotify-gruvbox-theme .config/spicetify/Themes/Gruvbox
+nvim spicetify/config-xpui.ini
+spicetify backup apply
+spicetifu update
+spicetify update
+spicetify
+spicetify apply
+cd spicetify/
+ls
+cd Themes/
+ls
+git clone https://github.com/giovanebribeiro/spotify-gruvbox-theme ./Gruvbox
+ls
+spicetify apply
+swww img Pictures/gowall/848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+cd .config/hypr/hyprland/
+yay vesktop
+yay modrinth
+hyprpanel
+cd .config
+ls
+rm hyprpanel
+rm -r hyprpanel
+hyprpanel
+yay wl
+cd .config
+ls
+cd waybar
+ls
+nvim config
+waybar
+nvim style.css
+waybar
+nvim style.css
+waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+waybar
+hyprctl dispatch exit
+ls
+cd .config
+ls
+cd nushell
+ls
+nvim config.nu
+config nu
+:q
+exit
+nvim env.nu
+config u
+config nu
+exit
+nu
+exit
+waybar
+cd .config
+cd waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+nvim style.css
+waybar
+nvim config
+way
+waybar
+nvim style.css
+yay victor
+waybar
+nvim
+waybar
+nvim config
+ls
+nvim modules
+nvim config
+waybar
+nvim config
+waybar
+nvim way
+nvim waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+way
+waybar
+nvim config
+waybar
+nvim config
+waybar
+nvim config
+waybar
+hyprpanel | nvim
+yay wlroots
+waybar
+hyprpanel
+cd ..
+cd hypr
+cd hyprland
+nvim execs.conf
+agsv1
+yay agsv1
+hyprpanel
+yay agsv1
+hyprpanel | nvim
+yay go-wayland
+yay wlroots
+hyprpanel
+hyprpane
+yay hyprpanel-git
+yay 
+yay -R hyprpanel
+yay hyprpanel-git
+hyprpanel 
+hyprpanel-app
+cd /usr/share/
+cd hyprpanel/
+jls
+ls
+./hyprpanel-app
+yay vala
+yay hyprland
+yay hyprland | grep vala
+yay hyprland.vala
+astal-hyprland
+yay astal
+astal-hyprland
+astal
+echo $HYPRLAND_INSTANCE_SIGNATURE
+hyprctl dispatch exit
+hyprpanel
+astal-hyprland
+waybar
+yay hyprland-ipc
+yay ipc
+yay hyde-ipc
+hyprpaenel
+hyprpanel
+hyde-ipc 
+hyde-ipc setup
+waybar
+bash
+exit
+yay bluetoo
+bluetoothctl 
+bluetui 
+yay bluejay
+cd ..
+cd git
+ls
+cd resonet/
+ls
+hyprpanel
+btop
+hyprpanel
+astal-hyprland
+hyde-ipc setup
+cd .config
+ls
+rm systemd
+hyde-ipc setup
+hyprpanel
+btop
+hyprpanel
+astal-hyprland
+hyde-ipc
+systemctl
+systemctl enable hyde-ipc
+hyde-ipc
+hyde-ipc listen
+ls /tmp/hypr/4e242d086e20b32951fdc0ebcbfb4d41b5be8dcc_1754412028_533206853<\n>
+cat ~/.cache/hyprland/hyprland.log
+Hyprland &> ~/.hyprland.log
+hyprctl dispatch exit
+ssh perln
+ssh perl
+mkdir scratch
+cd scratch/
+rsync -av rsync://data.sbgrind.org/10.15785/SBGRIND/1180 .
+cd ..
+cd git
+cd sophia-python/
+ls
+nvim two.pyt
+nvim two.py
+python two.py
+nvim two.py
+python two.py
+python one.py
+nvim .config/hypr/hyprland/keybinds.conf
+yay hyprshot
+btop
+hyprpanel
+btop
+hyprpanel
+yay matugen
+fastfetch
+yay kitty
+fastfetch
+fastfecth
+fastfetch
+cd .config/
+ls
+cd foo
+cd .config/hyprpanel/
+ls
+nvim config.json
+hyprpanel -q
+hyprpanel
+hyprctl dispatch exit
+btop
+nvim .config/hypr/hyprland/execs.conf
+hyprctl dispatch exit
+cd .config/waybar/
+ls
+nvinm style.css
+nvim style.css
+waybar
+hyprctl dispatch exit
+cd .config/nushell
+ls
+nvim env.nu
+tmux
+exit
+nu
+fastfetch
+nvim .config/kitty/
+cd .local/bin
+cd .local
+mkdir bin
+cd bin
+ls
+nvim start-tmux
+chmod +x start-tmux
+./start-tmux
+cd ~/.config/nushell
+cd ..
+cd foot
+ls
+nvim foot.ini
+tmux kill-server
+fastfetch
+fastfetxch
+yay starship
+nvim .config/nushell/config.nu
+cd .confi
+cd .config
+ls
+nvim starship.toml
+rm starship.toml
+ls
+git
+git status
+starship
+starship promp
+starship prompt
+starship
+starship timings
+git add .
+ls
+cd ..
+cd git
+cd c4
+ls
+cargo build -r
+nvim src/codegen_pbas.rs
+cargo build -r
+starship preset gruvbox-rainbow -o ~/.config/starship.toml
+ls
+nvim ~/.config/starship.toml
+cd ../..
+cd .config
+ls
+nvim foot/
+ir
+ls
+cd ..
+cd git
+cd c4
+ls
+fastfetch
+fastfetch -help
+fastfetch -h
+fastfetch -l ~/Pictures/gowall/848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+fastfetch -l ~/Pictures/gowall/1280px-Destruction_of_Pompeii_and_Herculaneum.jpg
+fastfetch -l ~/Pictures/gowall/rs=w_1280.jpg
+ls
+yay tinyfetch
+tinyfetch
+tinyfetch -h
+cd .config
+nvim tinyfetch.conf
+tinyfetch
+ls
+cd ..
+ls
+tinyfetch
+fastfetch
+cd .config/kitty/
+ls
+nvim kitty.conf
+cd ..
+cd .config/kitty/
+cd ~/.config/kitty/
+nvim kitty.conf
+yay harper
+nvim kitty.conf
+cd ~/git
+ls
+cd c4
+nvim src/codegen_pbas.rs
+rustup component add rust-src
+yay rust_analyzer
+yay rust
+yay rust-anal
+nvim src/codegen_pbas.rs
+ls
+hyprctl dispatch exit
+fastfetch
+nvim
+cd ~
+cd .config/
+ls
+yay zoxide
+zoxide
+zoxide init
+zoxide init nushell | nvim
+mv zoxide.nu nushell/
+z ..
+z git
+z .config
+ls
+z git
+s
+ls
+z c4
+ls
+:q
+z nushell
+z .config
+z nushell
+nvim config.nu
+nu
+;q
+:q
+;q
+nu
+exit
+nu
+exit
+z
+z .con
+cd hypr
+z hyprland
+nvim general.conf
+cd ..
+z git
+cargo new os
+cd os
+ls
+cd src
+btop
+cargo run
+cd ..
+nvim Cargo.toml
+cargo run
+cargo build
+rustup target add thumbv7em-none-eabihf
+cargo build --target thumbv7em-none-eabihf
+cargo rustc -- -C link-arg=-nostartfiles
+./target/debug/os
+nvim x86_6
+nvim x86_64-os.json
+cargo build --target x86_64-os.json
+ls -a
+mkdir .cargo
+cd .cargo/
+nvim config.toml
+cd ..
+cargo build --target x86_64-os.json
+rustup default nightly
+cargo build --target x86_64-os.json
+nvim target/
+nvim x86_64-os.json
+nvim .cargo/
+cargo build --target x86_64-os.json
+rustc --print target
+rustc --print target-list
+cargo build --target x86_64-unknown-none
+rustup component add rust-src
+rustup component add rust-src --toolchain nightly
+cargo build --target x86_64-os.json
+nvim x86_64-os.json
+cargo build --target x86_64-os.json
+nvim x86_64-os.json
+cargo build --target x86_64-os.json
+nvim x86_64-os.json
+cargo build --target x86_64-os.json
+nvim x86_64-os.json
+cargo build --target x86_64-os.json
+nvim x86_64-os.json
+cargo build --target x86_64-os.json
+nvim x86_64-os.json
+cargo build --target x86_64-os.json
+cd .cofn
+cd .cargo/
+nvim config.toml
+cd ..
+cargo build --target x86_64-os.json
+nvim .cargo/config.toml
+cd .
+cargo buil
+cargo build
+nvim src/main.rs
+cargo build
+nvim Cargo.toml
+cargo install bootimage
+cargo bootimage
+cd .cargo/
+ls
+ls -a
+nvim Cargo.toml
+cd ..
+nvim Cargo.toml
+cargo bootimage
+rustup component add llvm-tools-preview
+cargo bootimage
+nvim src/main.rs
+cargo bootimage
+cargo bootimage -Z build-std=core,compiler_builtins --target x86_64-os.json
+cargo +nightly bootimage -Z build-std=core,compiler_builtins --target x86_64-os.json<\n>
+cargo builder --target x86_64-os.json
+nvim Cargo.toml
+mv src/main.rs src/lib.rs
+cargo build
+cargo bootimage -Z build-std=core,compiler_builtins
+nvim Cargo.toml
+cargo bootimage
+nvim Cargo.toml
+mv src/lib.rs src/main.rs
+cargo bootimage
+cd .cargo
+ls
+cd ..
+nvim Cargo.toml
+cargo bootimage
+nvim Cargo.toml
+cargo bootimage
+cd src
+nvim build.rs
+cd ..
+nvim Cargo.toml
+cargo bootimage
+nvim Cargo.toml
+nvim src/build.rs
+nvim Cargo.toml
+cargo bootimage
+rustup target add x86_64-bootloader
+rustc --print=target-list | nvim
+mv src/build.rs .
+ls
+nvim build.rs
+cargo bootimage
+rustup target add x86_64-bootloader --toolchain stable
+cargo bootimage
+mv build.rs ..
+cargo bootimage
+cd ..https://github.com/phil-opp/blog_os/tree/post-02
+cd ..
+git clone https://github.com/phil-opp/blog_os/tree/post-02
+git clone https://github.com/phil-opp/blog_os.git
+cd blog_os/
+git branch post-02
+git pull
+git checkout post-o2
+git checkout post-02
+ls
+cargo build
+ls
+cd blog/
+ls
+cd ..
+ls
+cd scripts/
+ls
+cd ..
+ls
+cd blog/
+cargo build
+ls
+cd ../..
+rm blog_os/
+rm  blog_os/
+rm -r blog_os/
+mkdir plumOS
+cd PlumOS
+cd plumOS/
+cargo init
+ls
+cp ../os/src/main.rs src
+ls
+cd src
+ls
+nvim main.rs
+cd ..
+cargo build
+cp ../os/.cargo/config.toml .cargo/
+mkdir .cargo
+cp ../os/.cargo/config.toml .cargo/
+cp ../os/x86_64-os.json .
+ls
+carg i
+cargo 
+cargo build
+cd target/
+ls
+cd CACHEDIR.TAG
+cd x86_64-os/
+ls
+ls -a
+cd debug/
+ls
+./plumOS
+cd ..
+lsb
+ls
+cd target/
+ls
+nvim x86_64-os/debug/
+cd ..
+ls
+cargo build -r
+mkdir plumOS
+mv * plumOS/
+ls
+cd plumOS/
+cargo build -r
+cd ..
+mkdir boot
+cd boot
+ls
+mkdir grub
+cd grub/
+ls
+nvim grub.cfg
+cp ../../plumOS/target/x86_64-os/release/plumOS plumOS.elf
+ls
+mv plumOS.elf
+mv plumOS.elf ..
+nvim grub.cfg
+cd ..
+ls
+cd ..
+grub-mkrescue -o plum.iso .
+yay xorriso
+grub-mkrescue -o plum.iso .
+ls
+yay qemu
+ls
+qemu-system-x86_64 -cdrom plum.iso
+ls
+mkdir root
+mv boot root
+cd root
+mv boot/plumOS.elf .
+ls
+grub-mkrescue -o plum.iso .
+mv plum.iso ..
+cd ..
+qemu-system-x86_64 -cdrom plum.iso
+nvim plumOS/src/main.rs
+cd plumOS/
+cargo build -r
+cd ..
+cd root/
+cp ../../plumOS/target/x86_64-os/release/plumOS plumOS.elf
+ls
+cp ../plumOS/target/x86_64-os/release/plumOS plumOS.elf
+ls
+grub-mkrescue -o ../plum.iso .
+cd ..
+ls
+qemu-system-x86_64 -cdrom plum.iso
+cd plumOS/
+ls
+nvim Cargo.toml
+ls
+nvim build.rs
+nvim src/main.rs
+cargo build -r
+nvim src/main.rs
+nvim Cargo.toml
+cargo build -r
+nvim Cargo.toml
+cargo build -r
+nvim Cargo.toml
+cargo add multiboot2
+cargo build -r
+cargo add multiboot2
+ls
+nvim Cargo.toml
+ls
+cargo build -r
+nvim build.rs
+cargo build -r
+nvim build.rs
+cargo build -r
+nvim Cargo.toml
+cargo build -r
+nvim Cargo.toml
+cargo build -r
+nvim Cargo.toml
+cargo build -r
+nvim Cargo.toml
+cargo add multiboot2-elf64
+nvim src/main.rs
+rm build.rs
+cargo build -r
+nvim Cargo.toml
+cargo build -r
+nvim src/main.rs
+cargo build -r
+cd ..
+cd root/
+cp ../plumOS/target/x86_64-os/release/plumOS plumOS.elf
+grub-mkrescue -o ../plum.iso .
+cd ..
+qemu-system-x86_64 -cdrom plum.iso
+ls
+qemu-system-x86_64 -cdrom plum.iso
+nvim run.sh
+chmod +x run.sh
+./run.sh
+ls
+mv plumOS os
+ls
+cd os
+cd ..
+nvim run.sh
+./run.sh
+nvim run.sh
+./run.sh
+git init
+git add .
+nvim .gitignore
+git add .
+cd os
+git status
+rm .git
+rm -r .git
+cd ..
+git add .
+git commit -m "initial hello world commit"
+nvim .gitignore
+git add .
+git commit -m "add .iso file to gitignore"
+git remote add origin git@github.com:Hwks-9026/plumOS.git<\n>git branch -M main<\n>git push -u origin main
+ls -al ~/.ssh
+ssh-add ~/.ssh/id_ed25519
+eval "$(ssh-agent -s)"
+ls
+rm plum.iso
+git add .
+git commit -m "removed iso file"
+git push
+./run.sh
+ls
+git add .
+ls
+nvim .gitignore
+git add .
+git commit -m "added OS file in fs root directory to gitignore (is built and copied in run.sh)"
+git push
+git rm root/plumOS.elf
+./run.sh
+git commit -m "removed kernel .elf file"
+git push
+./run.sh
+cd os
+ls
+cd src
+ls
+rustfmt
+rustfmt os/src
+rustfmt os/src/*
+nvim main.rs
+./run.sh
+cd os
+cd src
+cd ..
+./run.sh
+nvim Cargo.toml
+cd ..
+git reset --hard HEAD
+ls
+git status
+cd src
+cd os
+cd src
+ls
+rm vga_buffer.rs
+cd ..
+./run.sh
+cd git
+ls
+rm build.rs
+ls
+rm os
+rm -r os
+cd plumOS/
+lsc
+z ..
+z plumOS
+ls
+./run.sh
+cd root/
+cd grub/
+ls
+z boot/
+z grub/
+ls
+nvim grub.cfg
+cd ../../
+cd ..
+./run.sh
+nvim os
+ls
+./run.sh
+nvim os
+./run.sh
+ls
+./run.sh
+nvim os
+./run.sh
+nvim os
+./run.sh
+cd root/boot/grub/
+nvim grub.cfg
+cd ../../..
+./run.sh
+nvim os
+cd os
+cargo build -r
+cd ..
+./run.sh
+nvim os
+./run.sh
+nvim os
+./run.sh
+nvim os
+./run.sh
+nvim os
+./run.sh
+nvim os
+./run.sh
+cd ~
+z
+z plum
+z
+yay ollama
+sudo pacman -Syy
+sudo pacman -Syu
+yay ollama
+ollama
+ollama pull gpt-oss:20b
+ollama serve
+z plum
+ls
+./run.sh
+nvim os
+nvim os/src/kernel.rs
+ls
+./run.sh
+ollama pull gpt-oss:20b
+btop
+ollama run gpt-oss:20b
+ollama run gpt-oss:20b --parallel
+ollama run gpt-oss:20b --threads 24
+ollama run --help
+ollama serve --help
+let-env OLLAMA_NUM_THREADS = "8"
+cd git
+cd PlumOS
+cd plumOS/
+ls
+./r
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+ls
+git add .
+git commit -m "refactored code to kernel.rs"
+git push
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+git add .
+git commit -m "blinking hello world"
+git push
+./run.sh
+btip
+btop
+yay balena
+./run.sh
+cd os
+cargo build -r -a Warnings
+cargo build --help
+cargo build -r -j 48
+nvim os/src/kernel.rs
+nvim src/kernel.rs
+rustfmt src/*
+nvim ker
+nvim src/kernel.rs
+cargo build -r -j 48
+cd ..
+./run.sh
+nvim os/Cargo.toml
+nvim os/src/main.rs
+./run.sh
+nvim os/src/main.rs
+./run.sh
+nvim os/src/main.rs
+./run.sh
+nvim os/src/main.rs
+./run.sh
+nvim os/src/main.rs
+./run.sh
+nvim os/src/main.rs
+./run.sh
+nvim os/src/main.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+nvim os/src/kernel.rs
+./run.sh
+ls
+./run.sh
+git status
+git add .
+git status
+git diff
+nvim os/Cargo.toml
+git commit -m "changed color to white"
+ls
+git push
+git mv os rust_boot_experiments
+git add .
+ls
+nvim run.sh
+mv run.sh run_rust_experiments.sh
+./run_rust_experiments.sh
+git add .
+ls
+mv root/ rust_experiment_root/
+nvim run_rust_experiments.sh
+ls
+./run_rust_experiments.sh
+cd rust_experiment_root/
+ls
+nvim status.md
+cd ..
+ls
+mkdir experimental
+mv rust* experimental/
+ls
+mv run_rust_experiments.sh experimental/
+rm plum.iso
+cd experimental/
+./run_rust_experiments.sh
+cd ..
+mv experimental/ rust_experimental
+ls
+cd rust_experimental/
+ls
+cd ..
+git add .
+git commit -m "moved files around in preparation for switching to C for operating system core"
+git push
+mkdir src
+cd src
+ls
+nvim boot.s
+nvim kernel_init.c
+nvim link.ld
+nvim Makefile
+make
+mv Makefile ..
+cd ..
+ls
+nvim Makefile
+ls
+mv Makefile src
+cd src
+ls
+make
+make all
+mkdir boot
+mv boot ..
+cd ..
+mkdir iso
+mv boot si
+ls
+mv si/boot iso
+mv si/boot/ iso
+rm si
+z iso
+ls
+mkdir boot
+cd boot
+mkdir grub
+cd grub
+nvim grub.cfg
+cd ..
+cd src
+ls
+make
+nvim Makefile
+make
+yay x86_64
+yay x86_64-elf
+make
+ls
+nvim Makefile
+nvim boot.s
+make all
+nvim Makefile
+make
+ls
+cp kernel.elf ../iso/
+cd ..
+cd iso
+grub-mkrescue -o ../plum.iso .
+cd 
+cd ..
+cd hwks
+cd git
+cd plumOS/
+ls
+qemu-system-x86_64 -cdrom plum.iso
+ls
+cd src
+ls
+mv Makefile ..
+cd 
+z plum
+nvim Makefile
+make
+nvim Makefile
+make
+ls
+rm plum.iso
+cd iso
+ls
+rm kernel.elf
+cd ..
+make
+nvim Makefile
+make
+make clean
+make
+ls
+make all
+cd iso
+ls
+rm kernel.elf
+cd ..
+nvim Makefile
+make
+ls -a
+cd src
+ls -a
+make
+cd ..
+make clean
+cd src
+ls
+rm boot.o
+rm kernel_init.o
+rm kernel.elf
+ls
+cd ..
+ls
+make
+make clean
+ls
+cd iso
+ls
+cd ..
+make
+make all
+cd iso
+ls
+cd ..
+make clean
+make all
+ls
+nvim Makefile
+make all
+ls
+qemu-system-x86_64 -cdrom plum.iso
+make clean
+nvim Makefile
+make clean
+make run
+make clean
+cd srx
+cd src
+ls
+cd ..
+make clean
+cd src
+ls
+rm boot.o
+rm kernel_init.o
+cd ..
+nvim Makefile
+mkdir .build
+make
+ls
+ls -a
+cd .build/
+ls
+cd ..
+cd src
+mkdir .build
+ls
+cd ..
+make clean
+make run
+cd src
+ls
+cd .build
+ls
+cd ..
+ls
+nvim Makefile
+mkdir build
+ls
+cd .build
+ls
+cd ..
+make run
+nvim Makefile
+make run
+ls
+cd built
+cd .build/
+ls
+cd ..
+rm build/
+cd src
+ls
+rm *.o
+ls
+cd ..
+make clean
+ls
+cd .build/
+ls
+cd ..
+make run
+grub-mkrescue --help
+make run
+cd src
+nvim kernel_init.c
+make run
+cd ..
+make run
+nvim kernel_init.c
+ls
+cd src
+ls
+nvim kernel_init.c
+cd ..
+make clean
+make run
+nvim src/kernel_init.c
+make clean
+make run
+nvim src/kernel_init.c
+make run
+make clean
+make run
+nvim src/kernel_init.c
+make clean
+make run
+nvim src/kernel_init.c
+make clean
+make run
+nvim src/kernel_init.c
+make clean
+make run
+nvim src/kernel_init.c
+make run
+nvim src/kernel_init.c
+make clean
+make run
+nvim src/kernel_init.c
+make run
+nvim src/kernel_init.c
+make run
+nvim src/kernel_init.c
+make run
+nvim src/kernel_init.c
+nvim src/kernel_screen.c
+nvim src/kernel_init.c
+nvim Makefile
+make run
+make clean
+make run
+nvim src/
+nvim Makefile
+make run
+nvim src/kernel_init.c
+make run
+nvim Makefile
+make run
+make clean
+make
+ls
+qemu-system-x86_64 -cdrom plum.iso
+make run
+nvim Makefile
+yay i686
+nvim Makefile
+make clean
+make run
+yay i686
+nvim Makefile
+make
+make run
+nvim kernel_init.c
+nvim src/kernel_init.c
+make run
+nvim src/kernel_init.c
+make run
+cd plum
+z plum
+make run
+nvim src/kernel_screen.c
+make run
+yay hyprlock
+hyprlock
+make run
+git add .
+git commit -m "preliminary move to C. Made more progress in C than I had in rust, I think due to the 32 bit i686 toolchain not corrupting certain text data. Created kernel_init.c which contains the entry point, kernel_screen.c which contains print function that handles printing arbitrary strings with newlines " 
+git push
+make run
+nvim src/kernel_screen.c
+make run
+nvim src/kernel_screen.c
+make run
+nvim src/kernel_init.c.c
+nvim src/kernel_init.c
+make run
+nvim src/kernel_screen.c
+make run
+nvim src/kernel_screen.c 
+make run
+nvim src/kernel_screen.c 
+make run
+nvim src/kernel_screen.c 
+make run
+nvim src/kernel_screen.c 
+make run
+nvim src/kernel_screen.c 
+make run
+nvim src/kernel_screen.c 
+make run
+cd src
+nvim io.h
+nvim  i
+nvim io.h
+rm io.h
+nvim io
+nvim kernel_io.h
+cd ..
+make run
+nvim src/kernel_screen.c 
+make run
+nvim src/idt.h
+nvim src/idt.c
+cd src
+ls
+nvim idt_stubs.s
+cd ..
+make run
+nvim src/kernel_init.c
+make run
+nvim Makefile
+make run
+nvim src/idt_stubs.s
+make run
+nvim src/pic.
+nvim src/pic.c
+nvim src/pic.h
+cd src
+ls
+nvim port_io.
+nvim port_io.h
+nvim keyboard.c
+nvim idt.c
+cd 
+z git 
+z plunm
+z plum
+ls
+cd src
+ls
+cd ..
+make run
+nvim src/keyboard.c
+make run
+nvim src/kernel_screen.h
+make run
+nvim idt.c
+nvim src/idt.c
+make run
+nvim keyboard.c
+nvim src/keyboard.c
+make run
+nvim src/kernel_init.c
+make run
+nvim src/kernel_init.c
+make run
+ls
+ssh perl
+btop
+exit
+nmtui
+ccls
+yay ccls
+nvim
+z plum
+btop
+make run
+nvim Makefile
+make run
+nvim src/kernel_init.c
+cd src
+nvim pic
+nvim pic.c
+nvim keyboard.c
+nvim idt.h
+nvinm idt_stubs.s
+nvim idt_stubs.s
+nvim kernel_init.c
+make run
+make run
+nvim kernel_init.c
+make run
+make clean
+make run
+nvim pic*
+make run
+make clean
+make run
+nvim src/kernel_io.c
+spicetify
+spicetify apply
+cd .config
+cd spicetify/
+ls
+cd Themes/
+ls
+git clone git clone https://github.com/Skaytacium/Gruvify<\n>cd Gruvify<\n>npm i -g sass<\n>sass user.sass user.css
+git clone https://github.com/Skaytacium/Gruvify
+cd Gruvify/
+ls
+npm i -g sass
+sudo npm i -g sass
+sass
+sass user.sass
+sass user.sass user.css
+spicetify config current_theme Gruvify
+spicetify apply
+spicetify config custom_apps lyrics-plus
+spicetify apply
+spicetify config sidebar_config 0
+spicetify apply
+spt
+ncspot
+yay spotifyd
+spotifyd
+spotify
+spicetify apply
+z .confi
+ls
+cd mako
+ls
+yay hyprpicker
+hyprpicker
+cd .config
+git clone https://github.com/adibhanna/minimal-vim
+mv nvim/ nvim.bak/
+mv minimal-vim/ nvim/
+nvim 
+nvim
+cd nvim.bak/
+nvim init.lua
+cd ..
+cd nvim
+ls
+nvim init.luaq
+nvim init.lua
+z git
+ls
+z c4
+ls
+nvim src/*
+z nvi
+z nvim.bak
+s
+ls
+cd lua
+ls
+nvim init.lua
+cd lua
+ls
+cd core
+ls
+btop
+waybar
+z waybar
+z .config/waybar
+ls
+nvim modules/
+ls
+cd modules/
+ls
+./weather.sh
+waybar
+cd ..
+nvim config
+ls
+./modules/weather.sh
+./waybar.sh
+btop
+waybar
+cd .confi
+cd .config
+ls
+cd nvim
+ls
+cd lua
+ls
+cd plugins/
+ls
+cd ..
+z ..
+z nvim.bak
+ls
+z lua
+ls
+z plugins/
+cp telescope.lua ../../../nvim/lua/plugins/
+nvim
+cd ..
+cd config/
+ls
+nvim keymaps.lua
+ls
+cd ..
+z nvim
+ls
+nvim
+z plum
+ls
+nvim Makefile
+z nvim/lua/config
+z nvim
+ls
+z lsp
+ls
+cd ..
+cd lua
+ls
+nvim config/
+z c4
+nvim src/codegen_llvm.rs
+z .config
+ls
+rm -r nvim
+mv nvim.bak/ nvim
+nvim
+z nvim
+ls
+z lua
+ls
+cd plugins/
+ls
+nvim gruvbox.lua
+nvim
+ls
+cd ..
+nvim init.lua
+nvim
+z doc
+z Documents
+z ~/Documents/
+ls
+z book/
+z rim
+ls
+yay sddm
+hyprctl dispatch exit
+nvim
+nvim lua
+nvim
+cd .config
+mv nvim/ nvim.bak/
+cd nvim
+mkdir nvim
+nvim
+ls
+cd nvim
+ls
+nvim ../nivm.bak/init.lua
+cd ..
+ls
+cd nvim.bak/
+ls
+cp init.lua ../nivm/
+cp init.lua ~/.config/nivm/
+mkdir ../nvim
+cp init.lua ~/.config/nivm/
+cp init.lua ../nivm/
+nvim init.lua
+cd ..
+cd nvim
+nvim init.lua
+pwd
+cd ..
+cd nvim.bak/
+ls
+mv init.lua ..
+cd 
+cd .config
+mv init.lua nvim
+nvim
+cd nvim
+ls
+nvim init.lua
+nvim
+yay neovim
+chmod u+x nvim-linux-x86_64.appimage && ./nvim-linux-x86_64.appimage
+z Down
+z ~/Down
+z ~/Downloads
+chmod u+x nvim-linux-x86_64.appimage && ./nvim-linux-x86_64.appimage
+chmod u+x nvim-linux-x86_64.appimage and ./nvim-linux-x86_64.appimage
+chmod u+x nvim-linux-x86_64.appimage ; ./nvim-linux-x86_64.appimage
+./nvim-linux-x86_64.appimage
+mv nvim-linux-x86_64.appimage ~/.local/bin
+nivm-linux
+nvim-linux-x86_64.appimage 
+cd ..
+z bin
+z .local
+z bin
+mv nvim-linux-x86_64.appimage nvim
+nvim
+z nvim
+ls
+ls -a
+mkdir loa
+mkdir lua
+rm loa
+z lua
+mkdir tweaks
+ls
+rm tweaks
+nvim ../init.lua
+nvim
+nvim plugins.lua
+nvim
+nvim ../init.lua
+nvim plugins.lua
+nvim
+nvim plugins.lua
+nvim ../init.lua
+nvim
+mkdir config
+cd config
+nvim lualine.lua
+cd ..
+nvim init.lua
+nivm init.lua
+nvim
+nvim init.lua
+nvim
+nvim init.lua
+nvim
+nvim lua/config/lualine.lua
+nvim
+nvim lua/config/lualine.lua
+nvim
+nvim 
+nvim lua/tweaks.lua
+nvim
+nvim lua/config/require.lua
+nvim
+nvim init.lua
+nivm
+nvim
+ls
+nvim
+nvim init.lua
+nvim
+nvim lua/tweaks.lua
+nvim
+cd ..
+cd c4
+z plu
+nvim Makefile
+ls
+z nvim
+ls
+cd lua/
+ls
+cd config/
+ls
+nvim require.lua
+cd ..
+nvim init.lua
+nvim i
+nvim init.lua
+nvim lua/plugins.lua
+nvim init.lua
+z plum
+ls
+cd rust_experimental/
+ls
+./run_rust_experiments.sh
+nvim rust_boot_experiments/src/
+ls
+z nvim
+ls
+cd lua/config/
+nvim require.lua
+nvim
+nvim require.lua
+,nvim
+nvim
+z plum
+ls
+cd rus
+z rust
+ls
+z rust_experiment_root/
+ls
+cd ..
+z rust_boot_experiments/
+ls
+z rs
+z src
+ls
+nvim kernel.rs
+nvim require.lua
+cd .
+cd ..
+nvim init.lua
+yay ripgrep
+cd lua/config/
+nvim require.lua
+yay blink_cmp
+z
+ls
+z .local
+ls
+z share
+ls
+z nvim
+ls
+z blink
+ls
+cd cmp
+ls
+ls -a
+cd ..
+ls
+ls -a
+nvim require.lua
+ls
+cd ..
+ls
+cd site/
+ls
+cd pack/
+ls
+cd core/
+ls
+cd opt/
+ls
+cd blink.cmp/
+lsc
+lsf
+ls
+cargo build -r -j 48
+nivm
+nvim require.lua
+z plum
+z rust_experimental/
+z rust_boot_experiments/
+ls
+nvim src/kernel.rs
+z nvim
+nvim lua/config/
+nvim scp://davis@perl/
+ssh perl
+z
+z .ssh
+ls
+nvim nersc
+nvim known_hosts
+nvim scp://davis@perlmutter.nersc.gov/
+yay thinlinv
+yay thinlinc
+z
+z down
+ls
+tar -xf tl-4.19.0-4005-client-linux-dynamic-x86_64.tar.gz
+ls
+cd tl-4.19.0-4005-client-linux-dynamic-x86_64/
+ls
+cd bin/
+lsc
+ls
+./tlclient
+ls
+mv tlclient ~/.local/bin/0
+cd .local
+cd ~
+cd .local
+cd bin
+ls
+mv 0 tlclient
+./tlclient
+ls
+cd ..
+cd Downloads/
+ls
+mv tl-4.19.0-4005-client-linux-dynamic-x86_64 .local/bin
+mv tl-4.19.0-4005-client-linux-dynamic-x86_64 .local/bin/
+ls
+mv tl-4.19.0-4005-client-linux-dynamic-x86_64/ .local/bin/
+cd tl-4.19.0-4005-client-linux-dynamic-x86_64/
+ls
+cd ..
+mv tl-4.19.0-4005-client-linux-dynamic-x86_64/ ~/.local/bin/
+cd ..
+z bin
+ls
+mv tlclient tl-4.19.0-4005-client-linux-dynamic-x86_64/bin/
+ln -s tl-4.19.0-4005-client-linux-dynamic-x86_64/bin/tlclient tlclient
+ls
+./tlclient
+z Down
+ls
+tar -xf sshproxy-2.1.2-linux-aarch64-musl.tar.gz
+ls
+cd sshproxy
+chmod +x sshproxy
+mv sshproxy ~/.local/bin
+sshproxy
+cd ..
+cd .local/bin/
+chmod +x sshproxy
+./sshproxy
+ls
+nvim sshproxy
+sshproxy
+rm sshproxy
+z down
+ls
+tar -xf sshproxy-2.1.2-linux-x86_64-musl.tar.gz
+ls
+mv sshproxy ~/.local/bin
+chmod +x ~/.local/bin/sshproxy
+sshproxy
+sshproxy --help
+sshproxy -u davis
+ls
+tlclient
+z .local
+ls
+cd bin
+ls
+cd tl-4.19.0-4005-client-linux-dynamic-x86_64/
+ls
+cd bin
+ls
+z
+nvim scp://davis@perlmutter.nersc.gov/
+./tlclient
+ssh nersc
+ssh perl
+nvim scp://davis@perlmutter.nersc.gov/global/homes/d/davis/.bashrc
+nvim scp://davis@perlmutter.nersc.gov//
+yay sshfs
+sshfs
+sshfs davis@perlmutter.nersc.gov//
+sshfs davis@perlmutter.nersc.gov// /mnt/perlmutter
+sshfs davis@perlmutter.nersc.gov:/ /mnt/perlmutter
+sshfs davis@perlmutter.nersc.gov:/ /mnt/remote
+mkdir /mnt/remote
+sudo mkdir /mnt/remote
+sshfs davis@perlmutter.nersc.gov:/ /mnt/remote
+sudo sshfs davis@perlmutter.nersc.gov:/ /mnt/remote
+nvim /mnt/remote
+sudo -E nvim /mnt/remote
+sudo cp .local/bin/nvim /bin/nvim
+sudo -E nvim /mnt/remote
+sudo -E nvim /mnt/remote/home/
+ssh perl
+sudo -E nvim /mnt/remote/global/hmes/d/davis
+sudo -E nvim /mnt/remote/global/hmes/d/davis/
+sudo btop
+sudo -E nvim /mnt/remote/
+nvim scp://perl/
+nvim scp://perl:/
+nvim scp://davis@perlmutter.nersc.gov:/
+yay audacity
+yay tenacity
+yay audacit9y
+yay audacity
+rm .config/audacity
+yay -R tenacity
+yay ardour
+ardour
+ardour8-new_session 
+ardour8-new_session --help
+ardour8-new_session -s 44100 -m 4 Music/ardour-session/
+btop
+yay tracktion
+Waveform8 
+yay tracktion
+Waveform8 
+yay libcurl
+yay libcurl3
+Waveform8 
+yay waveform
+yay tracktion
+Waveform9 
+yay tra
+yay tracktion
+yay lmms
+yay -R waveform8
+yay -R waveform-8
+yay tracktion
+yay -R tracktion
+yay -R tracktion-waveform-7
+yay -R tracktion-waveform-8
+yay -R tracktion-waveform-9
+yay tracktion
+lmms
+yay eglfs
+yay xcb
+yay lmms
+lmms
+yay offcreen
+yay qt5-wayland
+yay chromium
+chromium 
+chromium
+yay chrome
+yay chrom
+sudo pacman -Syu
+sshproxy -u davis
+ssh perl
+nvim .vimrc
+vim
+nvim .vimrc
+z nivm
+z nvim
+ls
+nivm lua/
+nvim lua/
+cd .local/bin/
+z .local
+z vbin
+z bin/
+ls
+z tl-4.19.0-4005-client-linux-dynamic-x86_64/
+z bin/
+ls
+./tlclient
+ssh perl
+nvim
+wow thats really interesting i feel more comfortable at this angle?
+ls
+pwd
+window
+window --help
+[0, 1, 2, 3, 4, 5, 1, 2, 3] | window 1
+[0, 1, 2, 3, 4, 5, 1, 2, 3] | window
+[0, 1, 2, 3, 4, 5, 1, 2, 3] | window 8
+[0, 1, 2, 3, 4, 5, 1, 2, 3] | window 2
+[0, 1, 2, 3, 4, 5, 1, 2, 3] | window 3
+[0, 1, 2, 3, 4, 5, 1, 2, 3] | window 9
+[0, 1, 2, 3, 4, 5, 1, 2, 3]
+ls
+lsc
+sl
+ls
+rm `Assignment Selector _ StarRez Portal.pdf`
+ls
+cd scratch/
+ls
+cd ..
+rm scratch/
+ls
+cd git
+ls
+cd plumOS/
+ls
+make run
+cd src
+;q
+ls
+nvim idt.h
+nvim kernel_io.h
+cd ..
+make run
+cd ..
+nvim pic.c
+z nvim
+nvim lua/plugins.lua
+nvim
+cd .local
+z .local/share
+ls
+z nvim
+z site/
+ls
+z pack/
+ls
+z core/
+ls
+z opt/
+ls
+z fff.nvim/
+ls
+cargo build
+cargo build -r -j 48
+nvim
+z nvim
+ls
+nvim lua/config/
+nivm init.lua
+nvim init.lua
+nvim lua/tweaks.lua
+nvim
+nvim lua/tweaks.lua
+nvim lua/config/fff.lua
+nvim 
+nivm lua/config/fff.lua
+nvim lua/config/fff.lua
+z plumOS
+ls
+make run
+cd ..
+cd plumOS/
+ls
+git status
+git reset --hard origin/$(git branch --show-current)<\n>git clean -fd<\n>
+git reset --hard origin/$(git branch --show-current)
+git reset --hard origin/main
+make run
+git clean -fd
+make run
+ls
+mv rust_experimental/
+mv rust_experimental/ .rust_experiment
+ls
+ls 
+git add .
+git commit -m "moved rust experiments to a dotfile so it doesnt show up in ls"
+git push -u origin main
+make run
+sshproxy -u davis
+btop
+cd ..
+cd c4
+ls
+cargo build -r -j 48
+c4
+ls
+nvim ~/.config/nushell/config.nu
+c4
+c4 test.c4l
+nvim test.c4l
+c4 test.c4l
+z c4
+cargo build -r -j 48
+nvim parsertest.c4l
+c4 parsertest.c4l
+rm test.c4l
+nvim parsertest.c4l
+tar -xf Downloads/keymapp-latest.tar.gzy
+tar -xf Downloads/keymapp-latest.tar.gz
+ls
+cd keymappy
+cd keymapp
+ls
+cd keymapp
+chmod +x keymapp
+mv keymapp .local/bin/keymapp
+keymapp
+sudo keymapp
+sudo mv .local/bin/keymapp /bin/
+keymapp
+sudo keymapp
+yay gtk
+sudo keymapp
+sudo pacman -S libusb webkit2gtk-4.1 gtk3
+sudo keymapp 
+keymapp
+sudo keymapp
+sudo pacman -S go
+sudo keymapp
+keymapp
+lsusb
+sudo -E nvim /etc/udev/rules.d/50-keymapp.rules
+sudo udevadm control --reload-rules<\n>sudo udevadm trigger
+keymapp
+lsusb
+sudo -E nvim /etc/udev/rules.d/50-keymapp.rules
+sudo udevadm control --reload-rules<\n>sudo udevadm trigger<\n>
+keymapp
+nvim
+nvim 
+nvim
+z git
+mkdir rim
+z rim
+cargo init
+ls
+cargo build -r -j 48
+z .local
+z bin
+ln -s ~/git/rim/target/release/rim rim
+rim
+z rim
+rim
+nvim Cargo.toml
+cargo build -r -j 48
+rim
+nvim src/main.rs
+nvim src/render.rs
+nvim src/gameloop.rs
+nvim src/*
+z
+nvim .config/nvim/lua/plugins.lua
+nvim
+z rim/src
+z rim
+z src
+ls
+nvim *.rs
+nvim main.rs gameloop.rs
+echo *.rs
+bahs
+exit
+bash
+nvim
+cargo build -r
+rim
+nvim gameloop.rs
+cargo build -r
+rim
+nvim gameloop.rs
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+yay mkv
+yay vlc
+cargo build -r
+rim
+yay vlc
+nvim gameloop.rs
+ls
+rm utis.rs
+ls
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cloc .
+yay cloc
+cloc .
+nvim map.rs
+rustfmt *
+z src
+z rim/src
+ls
+cargo build -r
+rim
+z rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+nvim
+python test.py
+nvim test.py
+python test.py
+nvim test.py
+python test.py
+nvim test.py
+python test.py
+nvim test.py
+python test.py
+nvim test.py
+python test.py
+nvim test.py
+python test.py
+cargo build -r
+rim
+ls
+cargo build -r
+rim
+nvim gameloop.rs
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+nvim gameloop.rs
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+nvim gameloop.rs
+cargo build -r
+rim
+cargo build -r
+rim
+nvim gameloop.rs
+fg 1
+cargo build -r
+fg 1
+rim
+cargo build -r
+rim
+job unfreeze 1
+cargo build -r
+job unfreeze 1
+rim
+nvim gameloop.rs
+cargo build -r
+rim
+cargo build -r
+rim
+nvim gameloop.rs
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+z key
+z .local
+ls
+z bin
+keymapp
+ls
+mkdir resources
+cd resources/
+ls
+nvim bloom.fs
+nivm bloom.fs
+nvim bloom.fs
+cd ..
+cargo build -r
+rim
+cargo build -r
+rim
+nvim gameloop.rs
+cd resources/
+nvim bloom.fs
+cd ..
+cargo build -r
+rim
+cd resources/
+cd ..
+cargo build -r
+mv resources/ src
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+lrs
+ls
+rm resources/
+rm -r 
+rm -r resources/
+ls
+nvim system.rs
+cd ..
+cargo build -r
+cd src
+cargo build -r
+cargo build -r | nvim
+cargo build -r
+rim
+nvim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+btop
+exit
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cd src
+mkdir resources
+ls
+rm resources/
+cd ..
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rustc --explain E0599
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+nvim system.rs
+cargo build -r
+rim
+nvim system.rs
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+nvim system.rs
+rim
+nvim system.rs
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+nvim gameloop.rs
+cd ..
+cd reso
+z reso
+z resonet/
+ls
+z src
+z reso
+pwd
+z scripts/
+ls
+sshproxy -u davis
+ssh perl
+nvim h5_eater.py
+ls
+z reso
+conda
+bas
+z reso
+python -m Pyro4.naming
+python -m Pyro4.naming &
+bash
+exit
+bash
+z
+ls
+rm test.py
+cd .config
+z git
+z resonet_docker/
+ls
+podman
+podman build .
+podman build . --storage-driver
+podman build . --storage-driver=extfs
+podman build . --storage-driver=vfs
+podman system reset
+z .config
+ls
+tinyfetcch
+tinyfetcc
+tinyfetch
+yay rustrover
+yay jaba
+yay java
+java
+yay java
+yay rustrover
+rustrover-jre
+rustrover
+rm JetBrains
+z rim
+cargo run -r
+ls
+z .config/nvim
+z lua
+nvim plugins.lua
+nivm plu
+nvim plugins.lua
+yay python3
+python3
+yay python3
+nvim plugins.lua
+pip install --user pynvim
+yay pip
+yay python
+yay python-pip
+sudo pacman -S python-pip
+pip install --user pynvim
+yay pynvim
+nvim plugins.lua
+nvim
+z c4
+z rim
+ls
+cargo run -r
+yay browsh
+browsh
+cd ~
+browsh
+cd .config
+rm browsh
+rim
+z rim
+z src
+rm browsh
+cargo build -r
+rim
+cargo build -r
+rim
+nvim problem.md
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+nvim *
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rrim
+rim
+rrim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+git init
+nvim .gitignore
+ls
+rm problem.md
+git add .
+git commit -m "initial commit to github. Current working features are only rendering based"
+git remote add origin git@github.com:Hwks-9026/rim.git<\n>git branch -M main<\n>git push -u origin main
+cargo run -r
+git add .
+git commit -m "fixed unstable expressions"
+git push -u origin main
+rim
+git push -u origin main
+cargo run -r
+z rim
+cargo run -r
+z rim
+cargo run -r
+yay zonotic
+z Down
+ls
+z xonotic-0.8.6/
+ls
+z Xonotic/
+ls
+./xonotic-linux64-dedicated
+ls
+./xonotic-linux64-glx
+z pum
+z rim
+ls
+cargo run -r
+nvim src/gameloop.rs
+fish
+z nvim
+nvim lua/
+nvim
+z rim
+cd src
+nvim gam
+z rim
+cargo run -r
+ls
+cargo run -r
+}2
+cargo run -r
+nvim gameloop.rs
+z nvim
+nvim
+nvim init.lua
+z rim
+z src
+nivm gameloop.rs
+rim
+nivm gameloop.rs
+cargo run -r
+git pull
+git clean
+git clean -fd
+cargo run -r
+git reset --hard origin/main
+git clean -fd
+cargo run -r
+nvim 
+cargo run -r
+rim
+cargo run -r
+rim
+z .local
+z bin
+ls
+cargo run -r
+z rim
+cargo run -r
+rim
+cargo run -r
+rim
+cargo run -r
+nvim
+m
+cargo build -r
+rim
+rim a
+rim one two
+cargo build -r
+rimb
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+ri
+rim
+cargo build -r
+rim
+btop
+z rim
+job unfreeze 1
+cargo build -r
+ls
+rim
+ls
+nvim default.rim
+rim new.rim
+rim load new.rim
+ls
+cargo build -r
+rm *.rim
+ls
+rim
+ls
+rim
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim
+cargo build -r
+rim dnd.rim
+rm dnd.rim
+ls
+rim dnd.rim
+nvim Cargo.toml
+cargo build -r
+rim dnd.rim
+cargo build -r -- dnd.rim
+cargo run -r -- dnd.rim
+git add .
+git commit -m "altered orbit drawing to use lines instead of points. Added save file support with serde and serde_json."
+ls
+rm default.rim
+rm dnd.rim
+git add .
+nvim .gitignore
+git add .
+git commit -m "removed .rim files and added them to gitignore"
+git push -u origin main
+cargo run -r -- dnd.rim
+git add .
+ls
+git commit -m "fixed compiler warnings for unused code"
+ls
+git push -u origin main
+git pull
+ls -a
+rm -r .github/
+git commit -m "github actions incompatible with raylib without further work"
+git add .
+git commit -m "github actions incompatible with raylib without further work"
+git push  i
+git push -u origin main
+yay mdbook
+mdbook
+z book
+z rim
+ls
+mdboo
+mdbook init
+ls
+z src
+ls
+cd ..
+mdbook
+mdbook build
+ls
+cd book/
+ls
+cd ..
+nvim book.toml
+mdbook build
+cd src
+ls
+cd ..
+mv rim.md src
+mdbook build
+cd src
+ls
+nvim SUMMARY.md
+cd ..
+ls
+mdbook
+mdbook serve
+ls
+mkdir capitalize_markdown.py
+rm capitalize_markdown.py/
+nvim capitalize_markdown.py
+python capitalize_markdown.py src/rim.md
+mdbook serve
+python capitalize_markdown.py src/rim.md src/newfile.md
+cd src
+ls
+nvim new
+nvim newfile.md
+rm newfile.md
+cd ..
+nvim map.rs
+z book/rim
+ls
+nvim src
+ls
+z src
+ls
+nivm rim.md
+nvim rim.md
+nvim introduction.md
+nvim rim.md
+nvim introduction.md
+nivm SUMMARY.md
+nvim SUMMARY.md
+nvim one.md
+ls
+cd ..
+ls
+cd ..
+ls
+rim
+ls
+rm default.rim
+z git
+mv rim rim_map
+ls
+z rim_map
+ls
+git
+git status
+git pull
+rim dnd.rim
+rim
+cargo run -r -- dnd.rim
+z .loa
+z .loc
+z bin
+ln -s ~/git/rim_map/target/release/rim rim
+rm rim
+ln -s ~/git/rim_map/target/release/rim rim
+rim
+ls
+rm default.rim
+z rim_map
+z rim/
+z rim_map
+lsc
+lls
+ls
+cargo run -r -- dnd.rim
+rm dnd.rim
+rim dnd.rim
+rim
+rm default.rim
+rim
+ls
+rim dnd.rim
+z rim
+z rim_map
+rim dnd.rim
+z src
+ls
+z rim_map
+cargo run -r -- dnd.rim
+ls
+cargo run -r -- dnd.rim
+cargo run -r
+z rim_map
+cargo run -r -- dnd.rim
+z rim_map
+cargo run -r -- dnd.rim
+git add .
+git commit -m "added Moon rendering"
+git push -u origin main
+cargo run -r -- dnd.rim
+git add .
+git commit -m "colored moons based on moon types"
+git push -u origin main
+yay lux
+yay lux-dl
+ls
+nvim
+z rim_map
+z rim_map
+rim dnd.rim
+z src
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+nvim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+git add .
+git commit -m "planets now scale based on mass. Hud rendering in map view"
+git push -u origin main
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cloc .
+z src
+cloc
+cloc .
+cd ..
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+job unfreeze 1
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo fix --bin "rim"
+git add .
+git commit -m "moons now only render upon highlight or selection"
+cargo fix --bin "rim"
+cargo build -r
+git add .
+git commit -m "fixed compiler warnings"
+git push -u origin main
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+z rim
+z rim/
+ls
+nvim introduction.md
+cd ..
+ls
+git init
+git add .
+git commit -m "initial commit, contains instroduction and One is partially complete"
+git remote add origin git@github.com:Hwks-9026/rim-a-history.git<\n>git branch -M main<\n>git push -u origin main
+ls
+ls
+z rim/
+ls
+z rim_map
+ls
+rm default.rim
+git add .
+git commi
+git commit -m "changed gitignore to only ignore default.rim so that the campaign's saved map will be stored"
+git push -u origin main
+z rim/
+cd 
+mdbook serve
+z rim/
+cd ..
+z src
+ls
+rm rim.md
+nvim rim.md
+rm rim.md
+ls
+nvim .gitignore
+rim dnd.rim
+nvim one.md
+cd ..
+git add .
+git commit -m "contribuption to one"
+git push -u origin main
+git pull
+git push -u origin main
+git pull
+git config pull.rebase true
+git pull
+git push -u origin main
+z src
+nvim SUMMARY.md
+cd ..
+nvim book.toml
+cd src
+nvim test.md
+mdbook serve
+ls
+nvim SU
+nvim SUMMARY.md
+cd ..
+nvim book.toml
+cargo build -r
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+z src
+cargo build -r
+exit
+z rim_map
+cargo build -r
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim
+cargo build -r
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+cargo build -r
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+cargo build -r
+rm dnd.rim
+rim dnd.rim
+rm dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rm dnd.rim
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cargo build -r
+rim dnd.rim
+cd ..
+mkdir rim_planet_generation
+z rim_planet_generation/
+cargo init
+ls
+cd ..
+z rim_ma
+cd src
+ls
+nvim sys
+nvim Cargo.toml
+cargo build -r
+cargo run -r
+nvim src/main.rs
+cargo run -r
+nvim src/main.rs
+ls
+mv planet_render.rs src
+cd src
+z docs
+z doc
+z Doc
+ls
+z lizifappmeeting.md
+z rim_ma
+rim dnd.rim
+cd ..
+cd resonet_docker/
+ls
+podman build
+podman build .
+ls
+mv dockerfile Dockerfile
+podman build .
+ls
+podman run .
+podman run -t resonet .
+podman build -t resonet /
+podman build -t resonet .
+z resonet_docker/
+cd git
+z resonet_docker/
+podman run -it resonet
+podman run -it --rm resonet
+podman build .
+podman build -t resonet .
+podman run -it --rm resonet
+cd /root
+cd /
+ls
+cd root
+su
+z git
+z resonet_docker/
+podman build -t resonet .
+podman run -it --rm resonet
+podman build -t resonet .
+Y
+podman build -t resonet .
+podman run -it --rm resonet
+z .local
+z bin
+nvim dashboard
+chmod +x dashboard
+dashboard
+htop
+iftop
+tail -f /var/log/syslog
+watch -n 2 df -h
+exit
+exit
+exit
+exit
+z .local/bin
+nvim Dockerfile
+yay gh
+yay github-cli
+gh
+gh auth
+gh auth login
+git
+gh
+gh project
+gh project list
+gh auth refresh
+gh
+gh browse
+z git
+z plumOS/
+ls
+git browse
+gh browse
+gh extension install dlvhdr/gh-dash
+gh dash
+cd ..
+cd rim_map/
+gh dash
+z
+sudo wget https://github.com/sqshq/sampler/releases/download/v1.1.0/sampler-1.1.0-linux-amd64 -O /usr/local/bin/sampler<\n>sudo chmod +x /usr/local/bin/sampler
+sampler
+sampler 
+cd .config
+nvim sampler.yml
+sampler --config sampler.yml
+nvim sampler.yml
+yay memory
+yay memory | grep "pressure"
+nvim sampler.yml
+yay memory_pressure
+memory_pressure
+nvim sampler.yml
+sampler --config sampler.yml
+nvim sampler.yml
+sampler --config sampler.yml
+z .config
+sampler --config sampler.yml
+nvim sampler.yml
+sampler --config sampler.yml
+nvim sampler.yml
+sampler --config sampler.yml
+nvim sampler.yml
+podman stats
+podman run -it --rm resonet
+sampler --config sampler.yml
+ls
+nvim sampler.yml
+sampler --config sampler.yml
+nvim sampler.yml
+sampler --config sampler.yml
+nvim dashboard
+exit
+ls
+po
+podman build -t resonet .
+podman run -it --rm resonet
+podman build -t resonet .
+podman run -it --rm resonet
+podman build -t resonet .
+podman run -it --rm resonet
+cd ..
+cd resonet/
+ls
+cp test_1_00001.cbf ../resonet_docker/
+z docker
+ls
+mkdir cbfs
+cp test_1_00001.cbf cbfs
+podman build -t resonet .
+podman run -it --rm resonet
+ls
+curl -s "nersc.gov/users/status"
+curl -s "https:://www.nersc.gov/users/status"
+curl "https:://www.nersc.gov/users/status"
+curl -s "https://www.nersc.gov/users/status"
+z git
+ls
+z rim_planet_generation/
+ls
+cargo run -r
+cd src/
+yay shooter
+xonotix
+xonotic
+yay shooter
+z Downloads/
+ls
+xd xonotic-0.8.6/
+us
+xd xonotic-0.8.6/
+cd xonotic-0.8.6/
+ls
+z Xonotic/
+ls
+./xonotic-linux64-glx
+z rim
+cargo run -r -- dnd.rim
+man raylib
+tldr
+tldr raylib
+z rim_m
+rim
+rim dnd.rim
+nivm dnd.rim
+nvim dnd.rim
+z src
+ls
+z xonotic-0.8.6/
+ls
+cd ..
+nvim utils.rs
+cd //
+z rim_p
+z kvum
+z nvim
+z rim_p
+z src
+us
+lss
+ls
+datetimectl
+yay datetime
+datectl
+bash
+ls
+ls | where type == file
+cat
+cat ls
+cat icon.png
+cat icon.png | table
+table cat
+yay blender
+sudo pacman -Syy
+pacman -S blender
+sudo pacman -S blender
+z
+nvim
+ls
+z rim_map
+rim dnd.rim
+nvim planet_render.rs
+z ..
+ls
+z plumOS/
+z rus
+z rust
+ls
+ls -a
+z .rust
+z .rust_experiment/
+lst
+ls
+z rust_boot_experiments/
+ls
+z src
+ls
+nvim kernel.rs
+z git
+ls
+z PlumBlossom/
+z ..
+s
+ls
+fastfetch
+podman run -it --rm resonet
+fastfetch
+podman run -it --rm resonet
+fastfetch
+nvim
+fastfetch
+yay
+sudo pacman -Syu
+yay mgba
+sudo pacman -Syy
+yay mgba
+z
+fastfetch
+cd git
+z rim_planet_generation/
+z src
+s
+ls
+nvim planet_render.rs
+cd ..
+rm -r rim_planet_generation/
+cargo new planet_gen
+cd planet_gen/
+ls
+z src
+ls
+z ..
+z
+z planet
+ls
+z src
+cd ..
+cd rim_map/
+ls
+nvim src/system.rs
+cd ..
+z planet
+ls
+rm 
+rm Cargo.toml
+rm src
+rm -r src
+mkdir src
+cd src
+ls
+cd ..
+rm src
+ls
+nvim planet_gen.c
+gcc planet_generator.c -o planet_generator -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+ls
+mv planet_gen.c planet_generator.c
+gcc planet_generator.c -o planet_generator -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+yay raylib
+gcc planet_generator.c -o planet_generator -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+ls
+./planet_generator
+nvim planet_gen.c
+z planet
+./planet_generator
+gcc planet_generator.c -o planet_generator -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+./planet_generator
+nvim planet_generator.c
+gcc planet_generator.c -o planet_generator -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+./planet_generator
+nvim vertex_shader.glsl
+./planet_generator
+z Down
+z planet-generator-main/
+ls
+./planet_mod
+planet_mod -?
+./planet_mod -?
+./planet_mod -s 0.1
+ls
+./planet_mod -?
+./planet_mod -s 0.1 -o planet.png
+./planet_mod -s 0.2 -o planet.png
+./planet_mod -s 0.9 -o planet.png
+nvim Colors.rgb
+ls
+./planet_mod -s 0.9 -o planet.png -?
+./planet_mod -s 0.9 -o planet.png -c
+./planet_mod -s 0.8 -o planet.png -c
+./planet_mod -s 0.9 -o planet.png -c
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -?
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Colors.rgb
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C light.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C burrows.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C mars.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Olsson2.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C lava.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Lefebvre.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C wood.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Bathymetric.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Jons.rgb
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Jons.col
+nvim *.col
+ls
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C 2col.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Blackbody.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C defaultB.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Mizuki.col
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Mizuki.col -?
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Mizuki.col -p S
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Mizuki.col -?
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Mizuki.col -p M
+./planet_mod -s 0.9 -o planet.png -c -w 1920 -h 1080 -C Mizuki.col -p o
+./planet_mod -s 0.9 -o planet.png -c -w 2000 -h 2000 -C Mizuki.col -p o
+./planet_mod -s 0.9 -o planet.png -c -w 2000 -h 2000 -C Mizuki.col -p O
+./planet_mod -s 0.9 -o planet.png -c -w 4000 -h 2000 -C Mizuki.col -p O
+./planet_mod -s 0.9 -o planet.png -c -w 4000 -h 2000 -C default.col -p O
+./planet_mod -s 0.9 -o planet.png -c -w 4000 -h 2000 -C Olsson2.col -p O
+./planet_mod -s 0.9 -o planet.png -c -w 4000 -h 2000 -C Olsson.col -p O
+./planet_mod -s 0.91 -o planet.png -c -w 4000 -h 2000 -C Olsson.col -p O
+z rim
+z rim/
+ls
+cd ..
+rm test.md
+z git
+git clone https://github.com/aseprite/aseprite 
+cd aseprite/
+ls
+cmake
+cmake .
+cd ..
+rm -r aseprite/
+git clone https://github.com/aseprite/aseprite --recursive
+z aseprite/
+cmake .
+cmake -S . -B build
+yay libjpeg
+cmake -S . -B build
+ls
+cd build/
+ls
+cd bin
+ls
+cd ..
+./build.sh
+yay skia
+yay steam
+z
+sudo os-prober 
+z .local/bin
+nvim passgen
+chmod +x passgen
+passgehn
+passgen 
+nvim passgen
+passgen 
+passgen 2
+passgen 3
+passgen 4
+passgen 4 1
+passgen 4 2 
+passgen
+passgen 4
+passgen 2 10
+nvim passgen
+passgen help
+nvim passgen
+passgen help
+nvim passgen
+passgen help
+nvim passgen
+passgen help
+passgen 2 5 "A"
+passgen 2 5 "ABCDEFGHIJKLMNOP"
+nvim passgen
+passgen 2 5 abcdefg
+passgen help
+passgen 2 6 ABCDEFGHIJKLMNQRTY
+passgen 2 6
+nvim passgen
+passgen 2 6
+nvim passgen
+passgen 2 6
+python
+exit
+python
+passgen 2 6 aA1
+passgen 2 6 A
+passgen 2 6 $
+passgen 2 6 #
+passgen 2 6 ! 
+z rim_map
+ls
+rim
+rim dnd.rim
+z Down
+ls
+z planet-generator-main/
+./planet_mod -s 0.91 -o planet.png -c -w 4000 -h 2000 -C Olsson.col -p O
+sshproxy -u davis
+ssh perl
+thinlink
+z .local/bin
+ls
+xd tl-4.19.0-4005-client-linux-dynamic-x86_64/
+cd tl-4.19.0-4005-client-linux-dynamic-x86_64/
+ls
+cd bin
+ls
+./tlclient
+z
+fastfetch
+podman run -it --rm resonet
+exit
+yay distrobox
+distrobox
+us
+ls
+fastfetch
+neofetch
+bash
+exit
+distrobox enter
+distrobox
+distrobox create
+distrobox assemble
+yay raijin
+cd git
+git clone https://github.com/MasonStooksbury/Raijin
+ls
+cargo install Raijin
+Raijin/
+ls
+cd ..
+cd .cargo/
+ls
+cd ..
+cd .local
+cd bin
+ln -s ~/.cargo/bin/Raijin raijin
+raijin 
+raijin --help
+z .config
+ls
+cd Raijin
+ls
+ls -a
+nvim .env
+Raijin/
+raijin
+cd ..
+yay nmgui
+yay unral
+yay unreal
+z git
+git clone https://github.com/Zarkonnen/GenGen
+cd GenGen/
+ls
+python server.py
+nvim server.py
+python server.py
+cd ..
+rm -r GenGen/
+git clone https://github.com/VirtualPlanetaryLaboratory/vplanet
+cd vplanet/
+s
+ls
+z bin
+ls
+cd ..
+make
+ls
+ls -a
+python setup.py
+python setup.py --help
+python setup.py build
+ls
+cd bin/
+ls
+cd ..
+ls
+cd build/
+ls
+cd lib.linux-x86_64-cpython-313/
+ls
+cd vplanet/
+ls
+cd ..
+cd examples/
+ls
+cd TidalEarth/
+ls
+python makeplot.py
+yay matplotlib
+python makeplot.py
+yay vplot
+cd ..
+rm -r vplanet/
+git clone https://github.com/LeifNode/World-Generator
+cd World-Generator/
+ls
+cd src
+g++
+g++ main.cpp -o worldgen
+yay unity
+cd .local/bin
+ls
+yay p7zip
+cd Downloads/
+ls
+7z `Hollow Knight Beta.7z`
+7z --help
+yay p7zip
+<\n>wget -O celestia-1.7.0-git-x86_64.AppImage https://download.opensuse.org/repositories/home:/munix9:/unstable/AppImage/celestia-latest-x86_64.AppImage<\n>chmod 755 celestia-1.7.0-git-x86_64.AppImage
+7z x `Hollow Knight Beta.7z`
+ls
+cd `Hollow Knight Beta/`
+ls
+yay wine
+ls
+wine Hollow_Knight.exe
+cd ..
+ls
+rm `Hollow Knight Beta/`
+cd `Hollow Knight Beta/`
+tmux
+ls
+nvim
+z nvim
+z lua/config/
+nvim require.lua
+nvim
+lvyn
+nvim
+lvi
+nvim
+cd ..
+nvim plugins.lua
+nvim
+cd ..
+nvim
+yay neovide
+yay ghostty
+ls
+cd ..
+cd ghostty/
+ls
+nvim config
+git clone https://github.com/vlanx/gruvbox-material-ghostty
+ls
+cd gruvbox-material-ghostty/
+mv themes/ ..
+cd ..
+ls
+rm gruvbox-material-ghostty/
+rm -r gruvbox-material-ghostty/
+ls
+z Pi
+cd Pho
+zpho
+z Pho
+z
+z P
+z 
+z Pictures/
+ls
+z gowall/
+yay view
+yay viu
+viu 1280px-Destruction_of_Pompeii_and_Herculaneum.jpg
+viu
+viu 1280px-Destruction_of_Pompeii_and_Herculaneum.jpg
+viu 848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+lsix 1280px-Destruction_of_Pompeii_and_Herculaneum.jpg
+yay lsix
+lsix
+ls
+lsix
+nvim
+ls
+fastfetch
+tinyfetch
+nmtui
+ping google.om
+ping google.com
+nmtui
+z Doc
+z Docum
+ls
+mkdir fall2025
+cd fall2025/
+mkdir circuits
+z circuits/
+mdbook init
+ls
+datectl
+timedatectl set-timezone
+timedatectl set-timezone America/Denver
+nvim day1.md
+yay obsidian
+obsidian
+rm .config/obsidian
+ls
+cd ..
+mdbook init
+ls
+mv circuits/ src
+cd src
+ls
+rm chapter_1.md
+nvim SUMMARY.md
+cd ..
+z rim
+z rim/
+ls
+cd ..
+ls
+cd ..
+z fall2025
+ls
+z fall2025
+ls
+cd src
+ls
+mkdir futures
+cd futures/
+mdbook serve
+cd src
+nvim SUMMARY.md
+cd ..
+nvim day1.md
+cd ..
+nvim
+cd ..
+nvim book.toml
+nvim
+yay solidworks
+z fall2025
+ls
+z fall2025
+z src
+ls
+mkdir fab_design
+nvim SUMMARY.md
+cd fab_design/
+nvim day
+cd Downloads/
+ls
+wine SolidWorksSetup.exe
+cd ..
+cd `.wine/drive_c/`
+ls
+cd swdist/
+ls
+cd SOLIDWORKS_2025_sp03/q
+cd SOLIDWORKS_2025_sp03/
+ls
+wine setup.exe
+wine setup.exe | nvim
+wine setup.exe
+yay unix
+wine setup.exe
+btop
+sudo reboot
+z waybar
+ls
+nvim modules/
+cd .cache/
+ls
+cd rbn/
+ls
+nvim weather.sh-
+waybar
+btop
+nvim weather.sh-
+ls
+ls -a
+btop
+bash
+fastfetch
+neofetch
+yay neofetch
+neofetch
+yay countryfetch
+countryfetch 
+countryfetch djibouti
+z hypr
+ls
+cd waybar-arco/
+ls
+btop
+ls
+waybar -c config.ini -s style-mono.css
+waybar -c config.ini -s style.css
+cd ..
+cd waybar/
+ls
+waybar -c config.ini -s style.css
+cd ..
+cd waybar-alt-1/
+ls
+waybar -c config.ini -s style.css
+cd ..
+cd waybar-alt-2/
+waybar -c config.ini -s style.css
+cd scripts/
+ls
+ls -a
+./keyhint.sh
+chmod +x *.sh
+./keyhint.sh
+yay yad
+./keyhint.sh
+ls
+./cleanup_after_start.sh
+nvim cleanup_after_start.sh
+nvim check_updates.sh
+./check_updates.sh
+yay -S
+cd .local/bin
+ls
+nvim wallpaper
+chmod +x wallpaper
+z Pictures/
+ls
+cp 848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg
+cp 848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg ~/.wallpapers/ninth-wave.jpg
+mkdir ~/.wallpapers
+cp 848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg ~/.wallpapers/ninth-wave.jpg
+ls
+cp time_walk.jpeg ~/.wallpapers/time_walk.jpeg
+nvim wallpaper
+./wallpaper
+nvim wallpaper
+yay -Syu
+ls
+./wallpaper
+cp `time thing.jpg` ~/.wallpapers/time_walk_alt.jpg
+ls
+mv 848399-3840x2160-desktop-4k-the-ninth-wave-ivan-aivazovsky-background-photo.jpg ninth-wave.jpg
+ls
+cp John_Martin_-_Ruins_of_an_Ancient_City_-_Cleveland_Art_Museum.jpg ~/.wallpapers/ruins.jpg
+cp fog-path-3.jpg ~/.wallpapers/fog-path.jpg
+gowall
+yay gowall
+gowall
+rm ~/.config/gowall
+gowall
+gowall convert rs=w_1280.jpg
+ls
+gowall convert rs=w_1280.jpg --theme gruvbox
+cp rs=w_1280.jpg ~/.wallpaper/octopod.jpg
+cp rs=w_1280.jpg ~/.wallpapers/octopod.jpg
+nvim wallpaper
+./wallpaper
+cd ~
+cd .wallpapers/
+ls
+rm time_walk_alt.jpg
+rm octopod.jpg
+z
+swww img .wallpapers/fog-path.jpg
+z rim
+z rim/
+fastfetch
+lsmod | grep thunder
+cd Documents/
+ls
+fastfetch
+python
+cd Documents/
+cd ..
+cd Downloads/
+ls
+swww img IMG_3943.jpg
+gowall convert IMG_3943.jpg --colorscheme gruvbox
+gowall convert IMG_3943.jpg --theme gruvbox
+swww img ~/Pictures/gowall/IMG_3943.jpg
+gowall convert IMG_3943(1).jpg --theme gruvbox
+gowall convert "IMG_3943(1).jpg" --theme gruvbox
+swww img "~/Pictures/gowall/IMG_3943(1).jpg"
+z gowall
+ls
+swww `IMG_3943(1).jpg`
+swww img `IMG_3943(1).jpg`
+swww img .wallpapers/ninth-wave.jpg
+z fall2025
+z fall2025
+ls
+cd src/
+ls
+cd futures/
+ls
+cd ..
+cd circuits/
+nvim day1.md
+cd ..
+yay tor
+yay torrent
+yay tor
+yay tor browser
+torbrowser-launcher 
+z fall2025
+cd src
+mkdir dynamics
+cd dynamics/
+cd ..
+nvim SUMMARY.md
+cd dynamics/
+nvim day1.md
+cd ..
+z rim_
+rim dnd.rim
+cd ..
+cd circuits/
+nvim day1.md
+cd ..
+nmtui
+rim dnd.rim
+rim
+rim default.rim
+nvim book.toml
+ls
+nvim src/SUMMARY.md
+rim
+nmtui
+yad
+yad --help
+yad --help-common
+yad --fontname=
+yad --fontname="Victor Mono" criteria.md
+yad --fontname="Victor Mono" --filename=criteria.md
+fastfetch
+yay radeon
+bt;r
+fastfetch
+lspci
+lspci -nn
+boltctl
+yay boltctln
+yay boltctl
+yay bolt
+boltctl
+boltctl list
+boltctl enroll bf010000-0052-5c0e-0348-10db98b3b108
+lspci -nn | grep vga
+lspci -nn | grep VGA
+yay egpu-switcher
+egpu configu
+egpu-switcher config
+sudo yay egpu-switcher
+sudo egpu-switcher config
+sudo egpu-switcher enable
+btop
+lspci -nn | grep VGA
+btofp
+fastfetch
+rim
+ri
+rim
+swww img .wallpapers/ninth-wave.jpg
+fastfetch
+nmtui
+yay opengl
+yay vulkan
+yay vulkan-mesa-layers
+fastfetch
+btop
+yay amdgpu
+amdgpu_top 
+fastfetch
+ls
+yay amd
+yay amdgpu
+ls
+amdgpu_top 
+amdgpu_top --help
+amdgpu_top --vk
+amdgpu_top --list
+lspci -nn | grep VGA
+yay virtualbox
+ls
+amdgpu_top --list
+rim
+cd rim
+z rim
+ls
+cd src
+ls
+nvim gameloop.rs
+cd ..
+cargo build -r
+rim dnd.rim
+cd src
+nvim gameloop.rs
+cd ..
+cargo build -r
+rim dnd.rim
+nvim src/gameloop.rs
+cd ..
+cd rim_map/
+cargo build -r
+rim dnd.rim
+glxinfo
+glxinfo | grep "OpenGL"
+cd rim_map/
+z rim_m
+rim dnd.rim
+sudo -E nvim /etc/environment
+rim dnd.rim
+sudo reboot
+fastfetch
+yay llamaa
+yay llama
+ollama serve --help
+ollama serve
+yay amdgpu
+sudo -E nvim /etc/environment
+sudo reboot
+amdgpu_top --list
+rim
+rim default.rim
+z rim_map
+ls
+cd src/
+ls
+nvim gameloop.rs
+cargo build -r
+cd ..
+rim dnd.rim
+yay vega
+yay opengl
+renderdoccmd 
+renderdoccmd capture rim
+renderdoccmd
+renderdoccmd capture rim
+ls
+renderdoccmd 
+renderdoccmd replay
+ls
+renderdoccmd capture rim
+rim
+cd src
+ls
+nvim map.rs
+cargo build -r
+rim
+cd ..
+rim dnd.rim
+rm dnd.rim
+rim dnd.rim
+cd git
+git clone git clone git@github.com:techblitzdev/TechBlitz.git
+git clone git@github.com:techblitzdev/TechBlitz.git
+cd TechBlitz/
+ls
+pnpm
+yay pnpm
+pnpm install
+pnpm run dev
+cd ..
+rm -r TechBlitz/
+mkdir practice_problems
+cd practice_problems/
+ls
+nvim twosum.py
+python twosum.py
+nvim twosum.py
+python twosum.py
+nvim twosum.py
+python twosum.py
+nvim twosum.py
+python stockbuy.py
+z rim/
+mdbook serve
+cd ..
+z fall2025
+cd src
+mkdir csm202
+z csm202/
+nvim one.md
+fastfetch
+ls
+fastfetch
+baltop
+top
+ls
+fastfetch
+nmtui
+cd git
+ls
+cd dodgefight/
+ls
+./build_all.sh
+bash build_all.sh
+ls
+cd builds/
+ls
+./standalone
+chmod +x standalone
+./standalone
+yay godot
+z .config
+rm godot
+pwd
+ls
+nmtui
+sudo reboot
+yay firefox
+sudo pacman -Syy
+sudo pacman -Syu
+yay librewolf
+nmtui
+cd Downloads/
+ls
+cd `Dark Souls Prepare To Die Edition VANILLA/`
+ls
+wine DARKSOULS.exe
+nvim
+cd futures
+z futures
+ls
+nvim reflection1.md
+yay exfat
+vim-y
+vimy
+nvim -y
+nvim -h
+sudo -E nvim /etc/environment
+sudoedi
+sudoedit
+sudoedit /etc/environmen
+sudoedit /etc/environment
+sudo pacman -Syy
+sudo pacman -Syu
+yay -Syy
+yay -Syu
+yay vim-y
+pacman -S vim-y
+sudo pacman -S vim-y
+fastfetch
+solid
+yay fusion
+vim -y
+vim
+nvim .vimrc
+mkdir .vim
+cd .vim
+ls
+mkdir autoload
+cd autoload/
+nvim plug.vim
+vim
+cd ..
+vim .vimrc
+z nvim
+ls
+vim lua/config/
+nvim lua/tweaks.lua
+xz
+z
+vim .vimrc
+yay wl-clipboard
+vim .vimrc
+yay vim
+yay yt-dlp
+ytdlp
+yt-dlp 
+yt-dlp -x --audio-format mp3 https://www.youtube.com/watch?v=7SCWy9gsw3E
+ls
+mv "Dune (2021) 4K - The Bene Gesserit's Gom Jabbar & Pain Box ｜ Movieclips [7SCWy9gsw3E].mp3" Music/gomjabbar.mp3
+btopb
+z git
+ls
+cd plumOS/
+ls
+cd src
+ls
+nvim kernel_screen.c
+cd ..
+ls
+make run
+vim -y
+vim
+nvim
+yay walker
+cd git
+# Clone the repository<\n>git clone https://github.com/abenz1267/walker.git<\n>cd walker<\n><\n># Build with Cargo<\n>cargo build --release<\n><\n># Run Walker<\n>./target/release/walker
+./target/release/walker
+cd .config
+z .config
+ls
+z walker
+ls
+./target/release/walker
+./target/release/walker --gapplication-service
+yay elephant
+elephant
+elephant providers
+yay -S elephant-desktopapplications
+ls
+./target/release/walker
+yay 
+yay
+elephant
+yay elephant
+./target/release/walker --gapplication-service
+./target/release/walker
+elephant
+z hypr
+ls
+z hyprland/
+ls
+exit
+exit
+exit
+ls
+fastfetch
+yay gruvbox
+z
+ls
+z Pictures/
+ls
+z /
+z home/
+cd ..
+su
+cd root
+sudo cd root
+sudo -s
+ls
+z home
+ls
+z hwks
+ls
+s
+7ls
+ls
+yay gruvbox
+gsettings
+gsettings list-schemas
+gsettings org.gnome.desktop.interface
+gsettings org.gnome.desktop.interface gtk-theme
+gsettings set org.gnome.desktop.interface gtk-theme
+gsettings set org.gnome.desktop.interface gtk-theme gruvbox
+yay gruvbox
+gsettings set org.gnome.desktop.interface gtk-theme gruvbox-dark
+gsettings set org.gnome.desktop.interface gtk-theme gruvbox-dark-gtk
+yay plank
+gsettings set org.gnome.desktop.interface gtk-theme gruvbox-dark-gtk
+dconf
+cd .themes
+ls
+z /usr/share
+cd themes/
+ls
+yay lxapp
+lxappearance 
+yay gnome-tweaks
+gnome-tweaks 
+gnome-tweaks 
+z .config
+ls | grep "gtk"
+cd gtk
+z gtk-4.0/
+ls
+nvim settings.ini
+gnome-tweaks 
+cd ..
+cd gtk-3.0/
+ls
+nvim settings.ini
+cd ..
+cd gtk-2.0/
+nvim gtkfilechooser.ini
+ls
+nvim gtkfilechooser.ini
+cd ..
+gnome-tweaks 
+yay gtk-mur
+yay gtk
+sudo pacman -S gtk-engine-murrine
+z git
+git clone https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme
+cd Gruvbox-GTK-Theme/
+ls
+cd themes/
+ls
+./install.sh
+yay gnome-shell
+./install.sh
+ls
+./build.sh
+./install.sh
+ls
+gnome-tweaks 
+lxappearance 
+z
+cd .themes
+ls
+cd Gruvbox-Dark/
+ls
+cp gtk-4.0/ .config
+rm -r ~/.config/gtk-4.0
+cp -r gtk-4.0/ ~/.config
+rm -r ~/.config/gtk-3.0
+cp -r gtk-3.0/ ~/.config
+btop
+z walker
+z walker
+./target/release/walker
+sudo flatpak override --filesystem=$HOME/.themes
+ls
+z .config
+ls
+z fall
+ls
+z src/dynamics/
+ls
+cd ..
+nvim SUMMARY.md
+cd ..
+cd src
+ls
+z dynamics/
+ls
+z git
+ls
+z resonet_docker/
+ls
+yay wl-clipboard
+yay vim-wayland
+vim --version
+mkdir -p ~/.vim/pack/vim-wayland-clipboard/start/<\n>git clone https://github.com/jasonccox/vim-wayland-clipboard.git ~/.vim/pack/vim-wayland-clipboard/start/vim-wayland-clipboard<\n>
+mkdir ~/.vim/pack/vim-wayland-clipboard/start/<\n>git clone https://github.com/jasonccox/vim-wayland-clipboard.git ~/.vim/pack/vim-wayland-clipboard/start/vim-wayland-clipboard<\n>
+vim
+nvim
+vim
+vim .vimrc
+nim
+nvim
+z nvim
+ls
+nvim lua/plugins.lua
+ls
+cd lua/
+ls
+cd config/
+ls
+nvim lualine.lua
+z plum
+s
+z src
+ls
+nvim boot.s
+ls
+cd ..
+nvim Makefile
+cd src
+ls
+cd ..
+nvim *
+nvim Makefile
+make run
+nvim kernel_screen.h
+nvim Makefile
+qemu-system-i386 -cdrom plum.iso
+nvim Makefile
+git commit -m 
+git commit -m "added .bss section to boot.s to reserve stack, added kernel_screen.h, switched to qemu-system-i386"
+git add .
+git commit -m "added .bss section to boot.s to reserve stack, added kernel_screen.h, switched to qemu-system-i386"
+make run
+nvim kernel_init.c
+mv global_descriptor_table.h gdt.h
+nvim kernel_init.c
+nvim Makefile
+make run
+nvim Makefile
+make run
+nvim Makefile
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make all
+make clean
+make .build/gdt_c.o
+make .build/gdt_s.o
+make .build/boot.o
+make .build/kernel_screen.o
+make .build/kernel_init.o
+make target
+make TARGET
+make iso/kernel.elf
+ls -l .build/
+cd ..
+i686-elf-ld -T src/link.ld -nostdlib -o iso/kernel.elf .build/boot.o .build/gdt_s.o .build/gdt_c.o .build/kernel_screen.o .build/kernel_init.o
+cd plumOS/
+i686-elf-ld -T src/link.ld -nostdlib -o iso/kernel.elf .build/boot.o .build/gdt_s.o .build/gdt_c.o .build/kernel_screen.o .build/kernel_init.o
+make clean
+make run
+make clean
+make run
+yay nas
+make run
+ls
+cd iso
+ls
+cd bot
+cd boot
+ls
+cd ..
+mv kernel.elf grub
+ls
+mv grub kernel.elf
+mv kernel.elf boot
+cd ..
+make plum.iso
+ls
+qemu-system-i386 -cdrom plum.iso
+make clean
+make run
+nvim gdt.c
+ls
+make clean
+make run
+make clean
+make run
+nvim idt.s
+:w
+qemu-system-i386 -cdrom plum.iso
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+ls
+cd iso
+ls
+rm kernel.elf
+ls
+cd ..
+make run
+cd boot
+cd iso
+ls
+cd boot/
+ls
+rm kernel.elf
+cd gruv
+cd grub
+ls
+nvim grub.cfgq
+nvim grub.cfg
+cd ..
+make run
+cd ..
+make run
+make clean
+make run
+git add .
+git commit -m "added basic interrupt and keyboard handling!"
+git push -u origin main
+make run
+nvim Makefile
+cloc src
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+vim .vimrc
+z fall
+cd src
+mkdir materials
+cd materials/
+ls
+make run
+make clean
+make run
+nvim kernel_screen.c
+rm keyboard.h
+make clean
+make run
+make clean
+make run
+exit
+exit
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+cloc .
+cloc src
+git add .
+nvim .gitignore
+git add .
+git commit -m "added shift support to the keyboard, edited gitignore"
+git push -u origin main
+cd .rust_experiment/
+ls
+qemu-system-i386 -cdrom plum.iso
+nvim rust_boot_experiments/src/kernel.rs
+cd ..
+mv .rust_experiment/ ../rust_os
+ls
+git add .
+git commit -m "moved rust experiments out of the repository. one end goal is still to get rust executables running in plumOS but they're not neccesary in plumOS repo for now."
+git push -u origin main
+qemu-system-i686
+i686-elf-ld
+cd /usr/bin
+ls
+z plumOS
+ls
+make clean
+make all
+make clean
+make all
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make all
+nvim kernel_init.c
+ls
+make all
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+z plumOS
+make run
+z src
+z fall
+z src
+z circuits
+ls
+make clean
+make run
+make clean
+make run
+cd git
+git clone git@github.com:Hwks-9026/plumOS.git plumOS64bit
+cd plumOS64bit/
+nvim Makefile
+make run
+cd git
+cd src
+ls
+git add .
+git commit -m 
+git commit -m "added timer interrupt and ticks variable"
+git push -u origin main
+cd ..
+git pull
+make run
+nvim Makefile
+make run
+make clean
+mak run
+make run
+nvim src
+nvim Makefile
+make clean
+make run
+make clean
+make run
+make clean
+make run
+nvim Makefile
+ls
+cd src
+ls
+rm gdt.s
+rm gdt.c
+rm gdt.h
+ls
+rm idt*
+js
+ls
+make clean
+make run
+rm timer*
+rm keyboard*
+ls
+git branch 64bit
+ls
+git branch --help
+git branch -m 64bit
+git branch 64bit
+git checkout 64bit
+ls
+rm ports.h
+ls
+rm kernel_screen*
+ls
+make clean
+make run
+make clean
+make run
+make cean
+make clean
+make run
+cd iso
+ls
+cd boot
+ls
+cd grub
+nvim grub.cfg
+cd ..
+ls
+cd ..
+ls
+grub-mkrescue --help
+grub-mkrescue -o plum.iso iso/
+qemu-system-x86_64 -cdrom plum.iso
+nvim kernel_init.c
+ls
+make clean
+make run
+make clean && make run
+make clean; make run
+cd iso
+cd boot/
+ls
+nvim grub/grub.cfg
+cd ../..
+make clean; make run
+cd iso/boot/grub/grub.cfg
+nvim iso/boot/grub/grub.cfg
+cd ..
+cd plumOS64bit/
+make clean; make run
+find iso
+ls
+find "iso"
+bash
+ls
+rm plum.iso
+make clean
+make all
+ls
+qe
+qemu-system-x86_64 -cdrom plum.iso
+make clean
+make run
+nvim link.ld
+mv kernel_init.c kernel.c
+ls
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+make clean
+make run
+nasm src/idt.s .build/idt.o
+nasm src/idt.s -o .build/idt.o
+nvim boot.s
+make clean
+make alnl
+make
+make clean
+make run
+make run | nvim
+make all | nvim
+make clean
+make run
+nvim idt.c
+nviim idt.s
+nvim idt.s
+rm idt.s
+nvim idt.s
+make clean
+make run
+make clean
+make run
+make clean
+make run
+exit
+fastfetch
+btop
+amdgpu_top
+obs
+z plum
+ls
+cd 
+z plumOS63
+z plumOS64
+ls
+make clean
+make run
+make ruln
+make
+cd src
+exit
+cd ..
+make run
+nmtui
+cd Downloads/
+vi hollow_knight_silksong_1_0_28324_84781.sh
+chmod +x hollow_knight_silksong_1_0_28324_84781.sh
+mv hollow_knight_silksong_1_0_28324_84781.sh ~/.local/bin/silksong.sh
+z bin
+chmod +x silksong.sh
+silksong
+./silksong.sh
+cd ~
+ls
+z `GOG Games/`
+ls
+z `Hollow Knight Silksong/`
+ls
+./start.sh
+ls
+cd support/
+ls
+cd ..
+ls
+cd game/
+ls
+nvim AppConfig.ini
+l
+ls
+cd default/
+ls
+cd ..
+cd `Hollow Knight Silksong_Data/`
+ls
+cd ..
+ls
+nvim start.sh
+nvim start.sh --help
+./start.sh --help
+./start.sh -s
+ln -s `~/GOG Games/Hollow Knight Silksong/start.sh` .local/bin/silksont
+z blj
+z bin
+ls
+mv silksont silksong
+nvim
+z fall
+z src
+ls
+z materials
+ls
+nvim 
+cd ..
+ls
+cd circuits/
+ls
+cd git
+ls
+git clone https://github.com/tadryanom/malwarepad_cavOS.git
+cd malwarepad_cavOS/
+git checkout c0e8d53
+ls
+cd src
+ls
+cd ..
+make
+ls
+cd src
+nvim kernel.c
+cd ..
+make
+git checkout 059833c
+ls
+make
+ls
+cd docker/
+ls
+docker
+podman build -t cavos .
+git checkout ec7ff9c<\n>
+podman build -t cavos .
+yay cheatengine
+z Downloads/
+wine CheatEngine76.exe
+yay gamecon
+gameconqueror 
+yay -r game
+yay -r gameconqueror
+yay -R gameconqueror
+yay pinec
+yay pince
+btop
+yay faketime
+yay libspeedhack
+speedhack
+speedhack --help
+z git
+mkdir processslowdown
+z processslowdown/
+lsc
+nvim slowdown.gbd
+mv slowdown.gbd slowdown.gbd
+mv slowdown.gbd slowdown.gdb
+pgrep 'hollow'
+pgrep 'Hollow Knight S'
+sudo gdb -p 4852 -x slowdown.gdb
+nvim slowdown.gbd
+nvim slowdown.gdb
+z git
+z plumOS/
+make run
+cd src
+ls
+nvim game.c
+z hypr
+ls
+yay gemini
+pacman -Syy
+sudo pacman -Syy
+sudo pacman -Syu
+yay
+yay gemini
+ls
+gemini
+z nvim
+ls
+cd lua/
+ls
+nvim plugins.lua
+z plumOS
+s
+ls
+cd src/
+ls
+nvim link.ld
+cd ..
+nvim Makefile
+make run
+nvim src/kernel_screen.h
+make run
+nvim src/kernel_screen.h
+make run
+nvim kernel.c
+nvim src/kernel_init.c
+make
+nvim src/kernel_init.c
+make
+make run
+nvim src/link.ld
+make clean
+make run
+nvim src/link.ld
+make 
+make clean
+make run
+ls
+z fall
+z src/circuits/
+ls
+nvim Downloads/LumaflyV2-Linux/
+cd `GOG Games/`
+gunzip Hollow.Knight.v1.5.78.11833.zip
+7z x Hollow.Knight.v1.5.78.11833.zip
+z Down
+z BepInEx_linux_x64_5.4.23.3/
+s
+ls
+./run_bepinex.sh
+chmod +x run_bepinex.sh
+./run_bepinex.sh
+chmod +x run_bepinex.sh
+./run_bepinex.sh `~/GOG Games/Hollow Knight Silksong/game/Hollow Knight Silksong`
+z Silksong
+ls
+z Down
+ls
+./MelonLoader.Installer.Linux
+chmod +x MelonLoader.Installer.Linux
+./MelonLoader.Installer.Linux
+yay dotPeek
+z silk
+ls
+cd game/
+ls
+cd `Hollow Knight Silksong_Data/`
+ls
+z Downloads/
+ls
+z InvincibleMod-30-1-0-6-1757430694/
+ls
+mv InvincibleMod.dll `~/GOG Games/Hollow Knight Silksong/game/Hollow Knight Silksong_Data/Plugins/`
+cd Plugins/
+ls
+cd ..
+ls
+cd Managed/
+ls
+cd ..
+ls
+cd Resources/
+ls
+cd ..
+ls
+default 
+cd default
+ls
+nvim user1.dat
+z git
+git clone https://github.com/moeakwak/silksong-save-editor
+cd silksong-save-editor/
+bun install
+yay bun
+sudo pacman -Syy
+yay bun
+bun install
+z git 
+z silksong-save-editor/
+ls
+mkdir saves
+cd saves/
+ls
+nvim prev.json
+nvim new.json
+diff prev.json new.json
+bun run dev
+cd ..
+mkdir AetherEngine
+cd AetherEngine/
+git init
+git remote add origin git@github.com:Hwks-9026/AetherEngine.git<\n>git branch -M main
+ls
+git pull
+ls
+ls -a
+git status
+git add .
+git pull
+git remote add origin git@github.com:Hwks-9026/AetherEngine.git
+git branch main
+yay raylib
+nvim test.c
+gcc test.c
+nvim test.c
+gcc test.c
+git submodule add https://github.com/raysan5/raylib?tab=readme-ov-file
+git submodule add https://github.com/raysan5/raylib
+git clone https://github.com/raysan5/raylib
+cd raylib/
+ls
+rm examples/
+rm -r examples/
+ls
+nvim CMakeLists.txt
+cd ..
+nvim test.c
+gcc -Iraylib test.c
+yay libraylib
+gcc -lraylib test.c
+ls
+./a.out
+rm raylib/
+rm -r raylib/
+ls
+rm a.out
+cp ../plumOS/Makefile .
+nvim Makefile
+ls
+rm Makefile
+rm test.c
+cargo init
+ls
+cargo build -r
+cargo run -r
+ls
+nvim .gitignore
+ls
+git add .
+git commit -m "initial commit of rust project"
+git push -u origin main
+git fetch
+git push -u origin main
+git pull
+git branch --set-upstream-to=origin/main main
+git pull
+git config --global rebase true
+git config --global pull.rebase true
+git pull
+git push -u origin main
+git add .
+git pull
+git commit -m "initial commit of rust project"
+git push -u origin main
+git pull
+git pull origin main
+git rebase --continue
+git push -u origin main
+ls
+cargo add macroquad
+ls
+nvim Cargo.toml
+cd src
+nvim main.rs
+z plat
+z git
+us
+ls
+z dodgefight/
+ls
+cd standalone/
+cd ..
+cp standalone/ ../platformer
+cp -r standalone/ ../platformer
+cd ..
+cd platformer/
+ls
+cargo build -r
+ls
+cargo run
+cargo run -r
+cd ..
+ls
+cd AetherEngine/
+ls
+cargo run -r
+cd src
+nvim main.rs
+ls
+nvim physics.rs
+nvim player.rs
+nvim collider.rs
+cd ..
+cargo run -r
+cd git
+mkdir dynamics
+cd dynamics/
+nvim one.py
+python venv
+python -m venv
+python -m venv .venv
+venv
+cd .venv
+ls
+cd bin
+ls
+./activate
+chmod +x activate
+./activate
+s
+bash activate
+ls
+venv
+source activate
+bash source activate
+ls
+cd ..
+pip install numpy
+pip install matplotlib
+pip install --upgrade pip
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+wq
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+pip install TkAgg
+pip instlal tkinter
+pip install tkinter
+pip install Tk
+python one.py
+yay libtk
+pip install libtk
+python one.py
+nvim one.py
+python one.py
+yay tkinter
+nvim one.py
+python one.py
+pip PyQt6
+pip install PyQt6
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+nvim one.py
+python one.py
+ls
+mkdir submission_1
+cp -r .venv submission_1/
+cp one.py submission_1/
+cd submission_1/
+sudo pacman -Syy
+sudo pacman -Syu
+bto
+z dynamics/
+cd ..
+venv
+python one.py
+yay
+foot
+yay hyprland
+yay pyprland
+pypr 
+pypr --help
+pypr attached
+pypr attache
+pypr attach
+pypr-client 
+pypr-client help
+pypr-client edit
+pypr-client change_workspace +1
+pypr-client change_workspace -1
+pypr-client version
+pypr-client 
+pypr-client help
+pypr-client toggle mouse
+pypr-client edit
+cd .config
+ls

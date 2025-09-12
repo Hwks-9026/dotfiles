@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass: Default" tags="Pattern|Bass" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Bass Default.trkpreset">
+  <BASSPATTERN name="Default">
+    <BAR length="16">
+      <NOTE start="0" length="16" velocity="127" pitch="0"/>
+    </BAR>
+  </BASSPATTERN>
+</PRESET>

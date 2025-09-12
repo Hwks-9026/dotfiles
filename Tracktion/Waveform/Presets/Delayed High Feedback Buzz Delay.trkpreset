@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Delayed High Feedback Buzz Delay" tags="Rack" builtIn="1"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Delayed High Feedback Buzz Delay.trkpreset">
+  <RACKFILTER name="Delayed High Feedback Buzz Delay" id="3a96e475">
+    <FILTERINSTANCE x="0.438323349" y="0.888059676">
+      <FILTER type="delay" enabled="1" length="31" feedback="-3.01075268" mix="1"
+              id="0/3a96e478"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.738922179" y="0.552238822">
+      <FILTER type="volume" enabled="1" volume="0.740818202" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/3a96e479"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.741967857" y="0.905405402">
+      <FILTER type="volume" enabled="1" volume="0.740818202" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/3a96e47b"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.270658672" y="0.574626863">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="-20" hiFreq="4935.15869" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5"
+              id="0/3a96e47c"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.275449097" y="0.902985096">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="-20" loFreq="332.237549"
+              loQ="0.5" hiGain="-20" hiFreq="9841.01563" hiQ="0.5" midGain1="0"
+              midFreq1="3000" midQ1="0.5" midGain2="5" midFreq2="2167.24707"
+              midQ2="0.5" id="0/3a96e47e"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.494610786" y="0">
+      <FILTER type="volume" enabled="1" volume="0.740818202" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/3a96e480"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.436746985" y="0.57432431">
+      <FILTER type="delay" enabled="1" length="42" feedback="-2.15053797" mix="1"
+              id="0/3a96e481"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.589357436" y="0.560810804">
+      <FILTER type="delay" enabled="1" length="500" feedback="-6" mix="0.300000012"
+              id="0/3a96e482"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.592814386" y="0.895522416">
+      <FILTER type="delay" enabled="1" length="500" feedback="-6" mix="0.304659486"
+              id="0/3a96e483"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.138554215" y="0.0337837823">
+      <FILTER type="text" title="Read Me" body="Delayed High Feedback Buzz Delay Rack&#10;&#10;Great for: Drums, Keys, Synths&#10;&#10;This Rack splits the signal in two sends both through a high feedback buzz delay followed by a longer delay.&#10;&#10;Use the EQs to choose the frequency band to process in each leg.&#10;&#10;The first delay creates the buzz.  The second delay creates the echo delay.  Adjust delay times to taste.&#10;&#10;Use the three volume filters to adjust the mix between the dry signal and the two delay lines."
+              id="0/2a10bba"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/3a96e479" srcPin="0" dst="0/0" dstPin="0"/>
+    <FILTERCONNECTION src="0/3a96e479" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e479" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e47b" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e47b" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e47e" srcPin="1" dst="0/3a96e478" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e47e" srcPin="2" dst="0/3a96e478" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/3a96e47c" dstPin="0"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/3a96e47c" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/3a96e47c" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/3a96e47e" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/3a96e47e" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/3a96e480" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/3a96e480" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e480" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e480" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e47c" srcPin="1" dst="0/3a96e481" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e47c" srcPin="2" dst="0/3a96e481" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e481" srcPin="1" dst="0/3a96e482" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e481" srcPin="2" dst="0/3a96e482" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e478" srcPin="1" dst="0/3a96e483" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e478" srcPin="2" dst="0/3a96e483" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e483" srcPin="1" dst="0/3a96e47b" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e483" srcPin="2" dst="0/3a96e47b" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e482" srcPin="1" dst="0/3a96e479" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e482" srcPin="2" dst="0/3a96e479" dstPin="2"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACKFILTER>
+</PRESET>

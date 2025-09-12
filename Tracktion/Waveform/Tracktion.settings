@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PROPERTIES>
+  <VALUE name="applicationFile" val="/usr/bin/Waveform9"/>
+  <VALUE name="applicationVersion" val="9.3.2 (Built: 21 August 2018)"/>
+  <VALUE name="installedVersion" val="590594"/>
+  <VALUE name="cacheSizeSamples" val="288000"/>
+  <VALUE name="midiout_Midi Through Port-0">
+    <SETTINGS enabled="1" preDelay="0" sendTimecode="0" sendMidiClock="0" programNames="Custom"/>
+  </VALUE>
+  <VALUE name="midiin_Midi Through Port-0">
+    <SETTINGS controllerMessages="1" enabled="1" endToEnd="1" recEnabled="1"
+              mergeRecordings="1" replaceExisting="0" recordToNoteAutomation="0"
+              quantisation="(none)" channel="0" program="0" bank="0" useFullVelocity="0"
+              manualAdjustMs="0.0" disallowedChannels="0"/>
+  </VALUE>
+  <VALUE name="hasEnabledMidiDefaultDevs" val="1"/>
+  <VALUE name="deadMansPedal" val=""/>
+  <VALUE name="audio_device_setup" val=""/>
+  <VALUE name="audiosettings_ALSA">
+    <AUDIODEVICE outEnabled="11" inEnabled="11" monoChansOut="0" stereoChansIn="0"/>
+  </VALUE>
+  <VALUE name="midiColour1" val="fff23d3d"/>
+  <VALUE name="midiColour2" val="ffb7c151"/>
+  <VALUE name="midiColour3" val="ff12b298"/>
+  <VALUE name="midiColour4" val="ff409fff"/>
+  <VALUE name="presetPaths" val=""/>
+  <VALUE name="longPopupDelay" val="0"/>
+  <VALUE name="updatesPos" val="3399 474 600 400"/>
+  <VALUE name="1739" val="45.3o8BxU2YfQFKs3TKhAFEmUCpJibLoBSy2TGxM+pxMwLyQujyOWFX..vsPnfY"/>
+  <VALUE name="windowLayout9">
+    <WINDOWS>
+      <WINDOW bounds="2055 113 1400 1000" tabIndex="0">
+        <PROJECTS>
+          <OPEN id="!root" scrollPos="0"/>
+        </PROJECTS>
+        <SETTINGS/>
+      </WINDOW>
+    </WINDOWS>
+  </VALUE>
+  <VALUE name="projectListColumns">
+    <TABLELAYOUT sortedCol="1" sortForwards="1">
+      <COLUMN id="4" visible="1" width="80"/>
+      <COLUMN id="1" visible="1" width="200"/>
+      <COLUMN id="2" visible="1" width="200"/>
+      <COLUMN id="3" visible="1" width="90"/>
+      <COLUMN id="5" visible="1" width="120"/>
+      <COLUMN id="6" visible="1" width="120"/>
+      <COLUMN id="7" visible="1" width="120"/>
+      <COLUMN id="8" visible="1" width="120"/>
+    </TABLELAYOUT>
+  </VALUE>
+  <VALUE name="MCUoneTouchRecord" val="0"/>
+  <VALUE name="wavein_channel 1">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 2">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 3">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 4">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 5">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 6">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 7">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 8">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 9">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 10">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 11">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 12">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 13">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 14">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 15">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 16">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 17">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 18">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 19">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 20">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 21">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 22">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 23">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 24">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 25">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 26">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 27">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 28">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 29">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 30">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 31">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 32">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 33">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 34">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 35">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 36">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 37">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 38">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 39">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 40">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 41">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 42">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 43">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 44">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 45">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 46">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 47">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 48">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 49">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 50">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 51">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 52">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 53">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 54">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 55">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 56">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 57">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 58">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 59">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 60">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 61">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 62">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 63">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="wavein_channel 64">
+    <SETTINGS filename="%projectdir%/%edit%_%track%_Take_%take%" gainDb="0.0"
+              etoe="0" format="WAV file" bits="24" triggerDb="-50.0" mode="0"
+              adjustMs="0.0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 1 + 2">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 3 + 4">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 5 + 6">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 7 + 8">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 9 + 10">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 11 + 12">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 13 + 14">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 15 + 16">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 17 + 18">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 19 + 20">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 21 + 22">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 23 + 24">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 25 + 26">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 27 + 28">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 29 + 30">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 31 + 32">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 33 + 34">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 35 + 36">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 37 + 38">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 39 + 40">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 41 + 42">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 43 + 44">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 45 + 46">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 47 + 48">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 49 + 50">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 51 + 52">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 53 + 54">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 55 + 56">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 57 + 58">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 59 + 60">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 61 + 62">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="waveout_channel 63 + 64">
+    <SETTINGS dithering="0" reversed="0"/>
+  </VALUE>
+  <VALUE name="projectList">
+    <ROOT uid="229c9afe">
+      <ACTIVE uid="905e894b"/>
+      <LIBRARY uid="68261291"/>
+    </ROOT>
+  </VALUE>
+</PROPERTIES>

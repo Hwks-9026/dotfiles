@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Jazz" tags="Pattern|Progression" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Progression Jazz.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="ii"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="i"/>
+  </PROGRESSION>
+</PRESET>

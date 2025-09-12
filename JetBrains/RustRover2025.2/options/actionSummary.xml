@@ -1,0 +1,49 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorLeft">
+      <i c="43" l="1755278550625" />
+    </e>
+    <e n="EditorRight">
+      <i c="61" l="1755278552323" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1755277944313" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1755278596287" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="3" l="1755278568035" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1755278587362" />
+    </e>
+    <e n="Rust.Build">
+      <i c="1" l="1755277958788" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1755278025077" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1755277928248" />
+    </e>
+    <e n="com.intellij.execution.actions.StopProcessAction">
+      <i c="1" l="1755277962941" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1755277945616" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1755278697034" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1755278018988" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1755278595158" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="3" l="1755278568951" />
+    </e>
+  </component>
+</application>

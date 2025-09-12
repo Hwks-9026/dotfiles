@@ -1,0 +1,11 @@
+{
+  "Mods": {},
+  "NotInModlinksMods": {},
+  "HasVanilla": false,
+  "ApiInstall": {},
+  "_ApiState": {
+    "Version": "74.0.0",
+    "Enabled": true,
+    "Pinned": false
+  }
+}

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Crossover - 4 Band" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Crossover - 4 Band.trkpreset">
+  <RACKFILTER name="Crossover - 4 Band" id="13d413b8">
+    <FILTERINSTANCE x="0.0850767121" y="0.604240298">
+      <FILTER type="lowpass" enabled="1" frequency="800" mode="lowpass" id="0/13d41261"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.230125517" y="0.413427562">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="1" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/13d41262"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.956764281" y="0.123674914">
+      <FILTER type="level" showMidi="0" id="0/13d41263"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.957627118" y="0.395833343">
+      <FILTER type="level" showMidi="0" id="0/13d41264"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.595536947" y="0.39222616">
+      <FILTER type="lowpass" enabled="1" frequency="3200" mode="lowpass" id="0/13d4126b"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.60529989" y="0.943462908">
+      <FILTER type="lowpass" enabled="1" frequency="200" mode="lowpass" id="0/13d4126d"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.78800559" y="0.840989411">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="1" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/13d4126f"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.776847959" y="0.289752662">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="1" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/13d41271"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.382147849" y="0.123674914">
+      <FILTER type="level" showMidi="0" id="0/13d41273"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.383542538" y="0.681978822">
+      <FILTER type="level" showMidi="0" id="0/13d41275"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.958837748" y="0.666666687">
+      <FILTER type="level" showMidi="0" id="0/13d41277"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.960048437" y="0.9375">
+      <FILTER type="level" showMidi="0" id="0/13d41279"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.0629539937" y="0.046875">
+      <FILTER type="text" title="read me" body="This rack is designed to split the input signal into seperate low, low-mid, high-mid and high frequency bands, which can then be processed seperarately.&#10;&#10;The Low/High Pass Filters determine the cross-over frequencies, and these can be adjusted with the quick controllers on the filters themselves. The rack outputs are named to indicate the band that feeds them. &#10;&#10;The native EQ filters are used just to invert the polarity of the signal, and should all be left set flat.&#10;&#10;DW"
+              id="0/903b538"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/13d41261" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/13d41261" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="1" dst="0/13d41262" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="2" dst="0/13d41262" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41263" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41263" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41264" srcPin="2" dst="0/0" dstPin="4"/>
+    <FILTERCONNECTION src="0/13d41264" srcPin="1" dst="0/0" dstPin="3"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/13d41273" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41262" srcPin="1" dst="0/13d41273" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/13d41273" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41262" srcPin="2" dst="0/13d41273" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="1" dst="0/13d41275" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="2" dst="0/13d41275" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41273" srcPin="1" dst="0/13d4126b" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41273" srcPin="2" dst="0/13d4126b" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d4126b" srcPin="1" dst="0/13d41264" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d4126b" srcPin="2" dst="0/13d41264" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41273" srcPin="1" dst="0/13d41263" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41273" srcPin="2" dst="0/13d41263" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d4126b" srcPin="1" dst="0/13d41271" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d4126b" srcPin="2" dst="0/13d41271" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41271" srcPin="1" dst="0/13d41263" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41271" srcPin="2" dst="0/13d41263" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41277" srcPin="1" dst="0/0" dstPin="5"/>
+    <FILTERCONNECTION src="0/13d41277" srcPin="2" dst="0/0" dstPin="6"/>
+    <FILTERCONNECTION src="0/13d41279" srcPin="1" dst="0/0" dstPin="7"/>
+    <FILTERCONNECTION src="0/13d41279" srcPin="2" dst="0/0" dstPin="8"/>
+    <FILTERCONNECTION src="0/13d41275" srcPin="1" dst="0/13d4126d" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41275" srcPin="2" dst="0/13d4126d" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d4126d" srcPin="1" dst="0/13d41279" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d4126d" srcPin="2" dst="0/13d41279" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d4126d" srcPin="1" dst="0/13d4126f" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d4126d" srcPin="2" dst="0/13d4126f" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41275" srcPin="1" dst="0/13d41277" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41275" srcPin="2" dst="0/13d41277" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d4126f" srcPin="1" dst="0/13d41277" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d4126f" srcPin="2" dst="0/13d41277" dstPin="2"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="High (left)" midi="0"/>
+    <OUTPUT name="High (right)" midi="0"/>
+    <OUTPUT name="Hi-Mid (left)" midi="0"/>
+    <OUTPUT name="Hi-Mid (right)" midi="0"/>
+    <OUTPUT name="Lo-Mid (left)" midi="0"/>
+    <OUTPUT name="Lo-Mid (right)" midi="0"/>
+    <OUTPUT name="Low (left)" midi="0"/>
+    <OUTPUT name="Low (right)" midi="0"/>
+  </RACKFILTER>
+</PRESET>

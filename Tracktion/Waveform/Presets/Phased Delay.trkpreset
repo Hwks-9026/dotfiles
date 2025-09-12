@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Phased Delay" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Phased Delay.trkpreset">
+  <RACKFILTER name="Phased Delay" id="3a96e46d">
+    <FILTERINSTANCE x="0.528112471" y="0.182432428">
+      <FILTER type="delay" enabled="1" length="125" feedback="-6" mix="1" id="0/3a96e46e"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.274251491" y="0.918918908">
+      <FILTER type="phaser" enabled="1" depth="3.98279548" rate="0.511290312"
+              feedback="0.762903214" id="0/3a96e471"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.278112441" y="0.195945948">
+      <FILTER type="phaser" enabled="1" depth="5" rate="0.400000006" feedback="0.699999988"
+              id="0/3a96e472"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.725748479" y="0.655405402">
+      <FILTER type="volume" enabled="1" volume="0.740818202" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/3a96e473"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.733935714" y="0.182432428">
+      <FILTER type="volume" enabled="1" volume="0.551351368" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/3a96e474"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.539156616" y="0.966216207">
+      <FILTER type="text" title="Read Me" body="Great for: Drums, Guitar, Synths&#10;&#10;This rack uses to two Phasers to process each side of the stereo input independently.  It then delays the sides and combines them back with the dry signal.&#10;&#10;Adjust the Phasers and Delay to taste, then use the two volume filters to mix the processed signal with the dry signal."
+              id="0/2a10bae"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/3a96e472" srcPin="1" dst="0/3a96e46e" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e471" srcPin="1" dst="0/3a96e46e" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/3a96e472" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/3a96e471" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/3a96e473" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/3a96e473" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e473" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e473" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e46e" srcPin="1" dst="0/3a96e474" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e46e" srcPin="2" dst="0/3a96e474" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a96e474" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a96e474" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/3a96e472" dstPin="0"/>
+    <FILTERCONNECTION src="0/3a96e472" srcPin="0" dst="0/3a96e46e" dstPin="0"/>
+    <FILTERCONNECTION src="0/3a96e46e" srcPin="0" dst="0/3a96e474" dstPin="0"/>
+    <FILTERCONNECTION src="0/3a96e474" srcPin="0" dst="0/0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACKFILTER>
+</PRESET>

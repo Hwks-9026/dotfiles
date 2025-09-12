@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Shake It Off" tags="Pattern|Progression" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Progression Shake It Off.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="ii"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+  </PROGRESSION>
+</PRESET>

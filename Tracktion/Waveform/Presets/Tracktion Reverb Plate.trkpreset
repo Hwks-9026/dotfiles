@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Tracktion Reverb: Plate" tags="Tracktion Reverb" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Tracktion Reverb Plate.trkpreset">
+  <FILTER type="reverb" enabled="1" roomSize="6.572774e-002" damp="1."
+          wet="1." dry="0." width="1." mode="0."/>
+</PRESET>

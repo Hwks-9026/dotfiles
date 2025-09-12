@@ -1,0 +1,13 @@
+[Unit]
+            Description=hyde-ipc user service
+            After=default.target
+
+            [Service]
+            ExecStart=/usr/bin/hyde-ipc react -c /home/hwks/.local/share/hyde-ipc/config.toml
+            Restart=always
+            StandardOutput=journal
+            StandardError=journal
+
+            [Install]
+            WantedBy=default.target
+        

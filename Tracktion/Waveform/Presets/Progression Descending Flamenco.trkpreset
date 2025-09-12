@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Descending Flamenco" tags="Pattern|Progression"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Progression Descending Flamenco.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="vi"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="iii"/>
+  </PROGRESSION>
+</PRESET>

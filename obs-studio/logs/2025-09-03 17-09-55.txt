@@ -1,0 +1,43 @@
+17:09:55.639: [Safe Mode] Unclean shutdown detected!
+17:09:59.404: [Safe Mode] User elected to launch normally.
+17:09:59.405: Platform: Wayland
+17:09:59.405: CPU Name: Intel(R) Core(TM) Ultra 7 155H
+17:09:59.405: CPU Speed: 400.000MHz
+17:09:59.406: Physical Cores: 16, Logical Cores: 22
+17:09:59.406: Physical Memory: 31591MB Total, 27894MB Free
+17:09:59.406: Kernel Version: Linux 6.16.4-2-cachyos
+17:09:59.406: Distribution: "CachyOS Linux" Unknown
+17:09:59.406: Desktop Environment: Hyprland
+17:09:59.406: Session Type: wayland
+17:09:59.418: Current Date/Time: 2025-09-03, 05:09:59 PM
+17:09:59.418: Browser Hardware Acceleration: true
+17:09:59.418: Qt Version: 6.9.2 (runtime), 6.9.1 (compiled)
+17:09:59.418: Portable mode: false
+17:09:59.445: OBS 31.1.2 (linux)
+17:09:59.445: ---------------------------------
+17:09:59.445: ---------------------------------
+17:09:59.445: audio settings reset:
+17:09:59.445: 	samples per sec: 48000
+17:09:59.445: 	speakers:        2
+17:09:59.445: 	max buffering:   960 milliseconds
+17:09:59.445: 	buffering type:  dynamically increasing
+17:09:59.447: ---------------------------------
+17:09:59.447: Initializing OpenGL...
+17:09:59.447: Using EGL/Wayland
+17:09:59.479: Initialized EGL 1.5
+17:09:59.489: Loading up OpenGL on adapter AMD AMD Radeon RX Vega (radeonsi, vega10, ACO, DRM 3.64, 6.16.4-2-cachyos)
+17:09:59.489: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 25.2.1-cachyos1.6, shading language 4.60
+17:09:59.594: ---------------------------------
+17:09:59.594: video settings reset:
+17:09:59.594: 	base resolution:   1920x1080
+17:09:59.594: 	output resolution: 1280x720
+17:09:59.594: 	downscale filter:  Bicubic
+17:09:59.594: 	fps:               30/1
+17:09:59.594: 	format:            NV12
+17:09:59.594: 	YUV mode:          Rec. 709/Partial
+17:09:59.595: NV12 texture support enabled
+17:09:59.595: P010 texture support not available
+17:09:59.598: Audio monitoring device:
+17:09:59.598: 	name: Default
+17:09:59.598: 	id: default
+17:09:59.601: ---------------------------------

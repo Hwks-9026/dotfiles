@@ -1,0 +1,6 @@
+[filesystem "Azul Systems, Inc.|21.0.8|/dev/nvme1n1p2"]
+	timestampResolution = 2671 nanoseconds
+	minRacyThreshold = 0 nanoseconds
+[filesystem "Azul Systems, Inc.|21.0.8|/dev/nvme0n1p2"]
+	timestampResolution = 3021 nanoseconds
+	minRacyThreshold = 0 nanoseconds

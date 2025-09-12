@@ -1,0 +1,15 @@
+[pyprland]
+plugins = [
+    "scratchpads", "workspaces_follow_focus"
+]
+
+[scratchpads.up-term]
+# command = "wezterm start --always-new-process --class dropterm-top"
+command = "kitty --class dropterm-top"
+#command = "kitty"
+animation = "fromTop"
+unfocus = "hide"
+position = "25% 45px"
+margin = 45
+size = "50% 50%"
+lazy = true

@@ -1,0 +1,55 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "CRATES_IO_INDEX_LAST_UPDATE": "1755278533675",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "4",
+    "MarketplacePluginsSearchHistory": "neovim",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.rust.enable.attach.dialog": "true",
+    "RunOnceActivity.rust.find.settings.fix": "true",
+    "RunOnceActivity.rust.first.ide.run": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "evlsprt3.252": "3",
+    "experimental.ui.used.version": "252.23892.452",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "idea.islands.enabled": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/hwks/git/rim",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "RR-252.23892.452",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true",
+    "ts.lib.d.ts.version": "5.7.3",
+    "whats.new.last.shown.version": "2025-2-23892-afd08ebb3ef8db6810bb4c9f185737f848bf438e"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/hwks/git/rim"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

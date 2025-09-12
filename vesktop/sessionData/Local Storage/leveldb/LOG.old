@@ -1,0 +1,23 @@
+2025/09/11-23:13:55.101 320a Reusing MANIFEST /home/hwks/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/09/11-23:13:55.107 320a Recovering log #467
+2025/09/11-23:13:55.108 320a Level-0 table #470: started
+2025/09/11-23:13:55.110 320a Level-0 table #470: 56041 bytes OK
+2025/09/11-23:13:55.110 320a Recovering log #470
+2025/09/11-23:13:55.110 320a Reusing old log /home/hwks/.config/vesktop/sessionData/Local Storage/leveldb/000470.log 
+2025/09/11-23:13:55.112 320a Delete type=2 #471
+2025/09/11-23:13:55.113 320a Delete type=0 #467
+2025/09/11-23:13:55.113 320a Compacting 4@0 + 1@1 files
+2025/09/11-23:13:55.116 320a Generated table #471@0: 114 keys, 47567 bytes
+2025/09/11-23:13:55.116 320a Compacted 4@0 + 1@1 files => 47567 bytes
+2025/09/11-23:13:55.118 320a compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/11-23:13:55.118 320a Delete type=2 #470
+2025/09/11-23:13:55.119 320a Delete type=2 #462
+2025/09/11-23:13:55.119 320a Delete type=2 #466
+2025/09/11-23:13:55.119 320a Delete type=2 #468
+2025/09/11-23:13:55.119 320a Delete type=2 #464
+2025/09/11-23:30:15.139 320a Level-0 table #473: started
+2025/09/11-23:30:15.144 320a Level-0 table #473: 41444 bytes OK
+2025/09/11-23:30:15.147 320a Delete type=0 #470
+2025/09/11-23:50:01.899 320b Level-0 table #475: started
+2025/09/11-23:50:01.905 320b Level-0 table #475: 41401 bytes OK
+2025/09/11-23:50:01.907 320b Delete type=0 #472

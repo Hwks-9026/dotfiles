@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: All the Small Things" tags="Pattern|Progression"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Progression All the Small Things.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="i"/>
+  </PROGRESSION>
+</PRESET>

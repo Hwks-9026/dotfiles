@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Tracktion Compressor: Full Mix" tags="Tracktion Compressor"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Tracktion Compressor Full Mix.trkpreset">
+  <FILTER type="compressor" enabled="1" threshold="0.3682857" ratio="0.335"
+          attack="0.3" release="10." outputDb="0."/>
+</PRESET>

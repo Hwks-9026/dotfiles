@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Bass Buzz Delay" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Bass Buzz Delay.trkpreset">
+  <RACKFILTER name="Bass Buzz Delay" id="f0e337">
+    <FILTERINSTANCE x="0.490963846" y="0.141891897">
+      <FILTER type="volume" enabled="1" volume="0.740818202" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/f0e33a"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.633534133" y="0.148648649">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="6.66666698"
+              loFreq="470.34964" loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5"
+              midGain1="0" midFreq1="3000" midQ1="0.5" midGain2="0" midFreq2="5000"
+              midQ2="0.5" id="0/f0e33b"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.342369467" y="0.668918908">
+      <FILTER type="lowpass" enabled="1" frequency="907" mode="highpass" id="0/f0e33c"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.502008021" y="0.662162185">
+      <FILTER type="delay" enabled="1" length="19" feedback="-1.5053755" mix="1"
+              id="0/f0e33d"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.502008021" y="0.986486495">
+      <FILTER type="text" title="Read Me" body="Bass Buzz Delay Rack&#10;&#10;Use  this rack to apply a buzz to bass/synth tracks.  It splits the incoming signal and applies a very short delay to the high frequency component while slightly boosting the low frequency content.  &#10;&#10;Adjust the direct path volume control to raise/lower the amount of clean bass signal mixed with the buzz.&#10;&#10;Adjust the High Pass Filter frequency to control the harmonic content of the buzz."
+              id="0/1eab2da7"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/f0e33a" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/f0e33a" dstPin="2"/>
+    <FILTERCONNECTION src="0/f0e33a" srcPin="1" dst="0/f0e33b" dstPin="1"/>
+    <FILTERCONNECTION src="0/f0e33a" srcPin="2" dst="0/f0e33b" dstPin="2"/>
+    <FILTERCONNECTION src="0/f0e33b" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/f0e33b" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/f0e33c" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/f0e33c" dstPin="2"/>
+    <FILTERCONNECTION src="0/f0e33c" srcPin="1" dst="0/f0e33d" dstPin="1"/>
+    <FILTERCONNECTION src="0/f0e33c" srcPin="2" dst="0/f0e33d" dstPin="2"/>
+    <FILTERCONNECTION src="0/f0e33d" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/f0e33d" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/f0e33a" dstPin="0"/>
+    <FILTERCONNECTION src="0/f0e33a" srcPin="0" dst="0/f0e33b" dstPin="0"/>
+    <FILTERCONNECTION src="0/f0e33b" srcPin="0" dst="0/0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="Left input" midi="0"/>
+    <INPUT name="Right input" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="Left output" midi="0"/>
+    <OUTPUT name="Right output" midi="0"/>
+  </RACKFILTER>
+</PRESET>

@@ -1,0 +1,61 @@
+gauges:
+  - title: YEAR PROGRESS
+    position: [[45, 30], [36, 2]]
+    cur:
+        sample: date +%j
+    max:
+        sample: echo 365
+    min:
+        sample: echo 0
+  - title: DAY PROGRESS
+    position: [[45, 24], [36, 2]]
+    cur:
+        sample: date +%H
+    max:
+        sample: echo 24
+    min:
+        sample: echo 0
+  - title: HOUR PROGRESS
+    position: [[45, 20], [36, 2]]
+    cur:
+        sample: date +%M
+    max:
+        sample: echo 60
+    min:
+        sample: echo 0
+  - title: MINUTE PROGRESS
+    position: [[45, 15], [36, 2]]
+    triggers:
+      - title: CLOCK EVERY MINUTE
+        condition: '[ $label == "cur" ] && [ $cur -eq 0 ] && echo 1 || echo 0'
+        actions:
+            sound: false
+            script: say -v samantha `date +%I:%M%p`
+    cur:
+        sample: date +%S
+    max:
+        sample: echo 60
+    min:
+        sample: echo 0
+sparklines:
+  - title: CPU usage
+    position: [[52, 1], [29, 15]]
+    rate-ms: 200
+    scale: 0
+    sample: ps -A -o %cpu | awk '{s+=$1} END {print s}'
+textboxes:
+  - title: podman containers stats
+    position: [[0, 15], [45, 13]]
+    rate-ms: 500
+    sample: podman stats --no-stream --format "table {{.Name}}\t{{.CPUPerc}}\t{{.MemUsage}}\t{{.PIDs}}"
+  - title: Local weather
+    position: [[0, 28], [21, 13]]
+    rate-ms: 10000
+    sample: curl wttr.in?0ATQF
+    border: true
+asciiboxes:
+  - title: UTC time
+    position: [[0, 0], [52, 15]]
+    rate-ms: 500
+    sample: env TZ=UTC date +%r
+    border: true

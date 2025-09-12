@@ -1,0 +1,6 @@
+09:52:22 PM: Tenacity 1.3.4
+09:52:22 PM: Error: Couldn't find symbol 'av_oformat_next' in a dynamic library: /usr/lib/libavformat.so.61: undefined symbol: av_oformat_next
+09:52:22 PM: Error: Couldn't find symbol 'av_register_all' in a dynamic library: /usr/lib/libavformat.so.61: undefined symbol: av_register_all
+09:52:22 PM: Error: Couldn't find symbol 'avcodec_register_all' in a dynamic library: /usr/lib/libavformat.so.61: undefined symbol: avcodec_register_all
+09:52:22 PM: Error: Couldn't find symbol 'av_codec_next' in a dynamic library: /usr/lib/libavformat.so.61: undefined symbol: av_codec_next
+09:52:22 PM: Error: Couldn't find symbol 'av_get_default_channel_layout' in a dynamic library: /usr/lib/libavformat.so.61: undefined symbol: av_get_default_channel_layout

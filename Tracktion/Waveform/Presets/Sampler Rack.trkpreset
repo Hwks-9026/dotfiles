@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Sampler Rack" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Sampler Rack.trkpreset">
+  <RACKFILTER name="Sampler Rack" id="2ff69a7">
+    <FILTERINSTANCE x="0.23094169795513153" y="0">
+      <FILTER type="sampler" enabled="1" id="0/26df556" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.10614524781703949" y="0.0069930069148540497">
+      <FILTER type="text" title="1: Name" body="" id="0/11cb77b" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.68834078311920166" y="0">
+      <FILTER type="volume" enabled="1" volume="0.74081820249557495" pan="0"
+              applyToMidi="0" ignoreVca="0" id="0/17c7e71" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.68946188688278198" y="0.25174826383590698">
+      <FILTER type="volume" enabled="1" volume="0.74081820249557495" pan="0"
+              applyToMidi="0" ignoreVca="0" id="0/9cbf09" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.23318386077880859" y="0.24475523829460144">
+      <FILTER type="sampler" enabled="1" id="0/3b9eadd" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.10762331634759903" y="0.25174826383590698">
+      <FILTER type="text" title="2: Name" body="" id="0/1da386f" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.38228699564933777" y="0">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/3a9392"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.3834080696105957" y="0.24475523829460144">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/2e20628"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.10874439775943756" y="0.49650350213050842">
+      <FILTER type="text" title="3: Name" body="" id="0/271375" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.10650224238634109" y="1">
+      <FILTER type="text" title="5: Name" body="" id="0/1029a1e" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.10650224238634109" y="0.74825173616409302">
+      <FILTER type="text" title="4: Name" body="" id="0/c13657" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.23094169795513153" y="0.49650350213050842">
+      <FILTER type="sampler" enabled="1" id="0/3edbff9" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.23094169795513153" y="0.74825173616409302">
+      <FILTER type="sampler" enabled="1" id="0/1d721d4" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.23206278681755066" y="1">
+      <FILTER type="sampler" enabled="1" id="0/cb1611" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.3834080696105957" y="0.74825173616409302">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/2a44b21"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.38452914357185364" y="1">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/c2f370"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.3834080696105957" y="0.49650350213050842">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/2ea180f"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.53475338220596313" y="0">
+      <FILTER type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" id="0/2e30c6d"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.53251123428344727" y="0.25174826383590698">
+      <FILTER type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" id="0/330bf2f"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.53139013051986694" y="0.49650350213050842">
+      <FILTER type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" id="0/28d522b"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.68946188688278198" y="0.48951047658920288">
+      <FILTER type="volume" enabled="1" volume="0.74081820249557495" pan="0"
+              applyToMidi="0" ignoreVca="0" id="0/2926067" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.53363227844238281" y="0.74324321746826172">
+      <FILTER type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" id="0/28bcb3d"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.69058293104171753" y="0.74125874042510986">
+      <FILTER type="volume" enabled="1" volume="0.74081820249557495" pan="0"
+              applyToMidi="0" ignoreVca="0" id="0/1b74542" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.53475338220596313" y="1">
+      <FILTER type="compressor" enabled="1" threshold="0.50118720531463623"
+              ratio="0.5" attack="100" release="100" outputDb="0" id="0/16395d9"
+              frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.69282513856887817" y="0.98601400852203369">
+      <FILTER type="volume" enabled="1" volume="0.74081820249557495" pan="0"
+              applyToMidi="0" ignoreVca="0" id="0/cb1de4" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0" y="1">
+      <FILTER type="text" title="Read Me" body="A rack of 5 Samplers.  They each go through their own EQ and compressor filter... the output then goes to both the main stereo out (adjust mix with volume controls) and an individual output for each sampler. &#10;&#10;Remember that each Sampler can hold many samples.&#10;&#10;(See Chapter 9.5 for how to use the individual outputs on separate tracks)"
+              id="0/10b4f48" frozen="0"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/26df556" srcPin="0" dst="0/0" dstPin="0"/>
+    <FILTERCONNECTION src="0/11cb77b" srcPin="1" dst="0/26df556" dstPin="1"/>
+    <FILTERCONNECTION src="0/11cb77b" srcPin="2" dst="0/26df556" dstPin="2"/>
+    <FILTERCONNECTION src="0/17c7e71" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/17c7e71" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/11cb77b" srcPin="0" dst="0/26df556" dstPin="0"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/11cb77b" dstPin="0"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/1da386f" dstPin="0"/>
+    <FILTERCONNECTION src="0/1da386f" srcPin="1" dst="0/3b9eadd" dstPin="1"/>
+    <FILTERCONNECTION src="0/1da386f" srcPin="2" dst="0/3b9eadd" dstPin="2"/>
+    <FILTERCONNECTION src="0/9cbf09" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/9cbf09" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/26df556" srcPin="1" dst="0/3a9392" dstPin="1"/>
+    <FILTERCONNECTION src="0/26df556" srcPin="2" dst="0/3a9392" dstPin="2"/>
+    <FILTERCONNECTION src="0/3b9eadd" srcPin="1" dst="0/2e20628" dstPin="1"/>
+    <FILTERCONNECTION src="0/3b9eadd" srcPin="2" dst="0/2e20628" dstPin="2"/>
+    <FILTERCONNECTION src="0/271375" srcPin="1" dst="0/3edbff9" dstPin="1"/>
+    <FILTERCONNECTION src="0/271375" srcPin="2" dst="0/3edbff9" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/271375" dstPin="0"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/c13657" dstPin="0"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/1029a1e" dstPin="0"/>
+    <FILTERCONNECTION src="0/271375" srcPin="0" dst="0/3edbff9" dstPin="0"/>
+    <FILTERCONNECTION src="0/c13657" srcPin="0" dst="0/1d721d4" dstPin="0"/>
+    <FILTERCONNECTION src="0/c13657" srcPin="1" dst="0/1d721d4" dstPin="1"/>
+    <FILTERCONNECTION src="0/c13657" srcPin="2" dst="0/1d721d4" dstPin="2"/>
+    <FILTERCONNECTION src="0/1029a1e" srcPin="0" dst="0/cb1611" dstPin="0"/>
+    <FILTERCONNECTION src="0/1029a1e" srcPin="1" dst="0/cb1611" dstPin="1"/>
+    <FILTERCONNECTION src="0/1029a1e" srcPin="2" dst="0/cb1611" dstPin="2"/>
+    <FILTERCONNECTION src="0/3edbff9" srcPin="1" dst="0/2ea180f" dstPin="1"/>
+    <FILTERCONNECTION src="0/3edbff9" srcPin="2" dst="0/2ea180f" dstPin="2"/>
+    <FILTERCONNECTION src="0/1d721d4" srcPin="1" dst="0/2a44b21" dstPin="1"/>
+    <FILTERCONNECTION src="0/1d721d4" srcPin="2" dst="0/2a44b21" dstPin="2"/>
+    <FILTERCONNECTION src="0/cb1611" srcPin="1" dst="0/c2f370" dstPin="1"/>
+    <FILTERCONNECTION src="0/cb1611" srcPin="2" dst="0/c2f370" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/3a9392" srcPin="1" dst="0/2e30c6d" dstPin="1"/>
+    <FILTERCONNECTION src="0/3a9392" srcPin="2" dst="0/2e30c6d" dstPin="2"/>
+    <FILTERCONNECTION src="0/2e30c6d" srcPin="1" dst="0/17c7e71" dstPin="1"/>
+    <FILTERCONNECTION src="0/2e30c6d" srcPin="2" dst="0/17c7e71" dstPin="2"/>
+    <FILTERCONNECTION src="0/2e30c6d" srcPin="1" dst="0/0" dstPin="3"/>
+    <FILTERCONNECTION src="0/2e30c6d" srcPin="2" dst="0/0" dstPin="4"/>
+    <FILTERCONNECTION src="0/2e20628" srcPin="1" dst="0/330bf2f" dstPin="1"/>
+    <FILTERCONNECTION src="0/2e20628" srcPin="2" dst="0/330bf2f" dstPin="2"/>
+    <FILTERCONNECTION src="0/330bf2f" srcPin="1" dst="0/0" dstPin="5"/>
+    <FILTERCONNECTION src="0/330bf2f" srcPin="2" dst="0/0" dstPin="6"/>
+    <FILTERCONNECTION src="0/330bf2f" srcPin="1" dst="0/9cbf09" dstPin="1"/>
+    <FILTERCONNECTION src="0/330bf2f" srcPin="2" dst="0/9cbf09" dstPin="2"/>
+    <FILTERCONNECTION src="0/2ea180f" srcPin="1" dst="0/28d522b" dstPin="1"/>
+    <FILTERCONNECTION src="0/2ea180f" srcPin="2" dst="0/28d522b" dstPin="2"/>
+    <FILTERCONNECTION src="0/28d522b" srcPin="1" dst="0/0" dstPin="7"/>
+    <FILTERCONNECTION src="0/28d522b" srcPin="2" dst="0/0" dstPin="8"/>
+    <FILTERCONNECTION src="0/28d522b" srcPin="2" dst="0/2926067" dstPin="2"/>
+    <FILTERCONNECTION src="0/28d522b" srcPin="1" dst="0/2926067" dstPin="1"/>
+    <FILTERCONNECTION src="0/2926067" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/2926067" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a44b21" srcPin="1" dst="0/28bcb3d" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a44b21" srcPin="2" dst="0/28bcb3d" dstPin="2"/>
+    <FILTERCONNECTION src="0/28bcb3d" srcPin="1" dst="0/0" dstPin="9"/>
+    <FILTERCONNECTION src="0/28bcb3d" srcPin="2" dst="0/0" dstPin="10"/>
+    <FILTERCONNECTION src="0/28bcb3d" srcPin="1" dst="0/1b74542" dstPin="1"/>
+    <FILTERCONNECTION src="0/28bcb3d" srcPin="2" dst="0/1b74542" dstPin="2"/>
+    <FILTERCONNECTION src="0/1b74542" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/1b74542" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/c2f370" srcPin="1" dst="0/16395d9" dstPin="1"/>
+    <FILTERCONNECTION src="0/c2f370" srcPin="2" dst="0/16395d9" dstPin="2"/>
+    <FILTERCONNECTION src="0/16395d9" srcPin="1" dst="0/cb1de4" dstPin="1"/>
+    <FILTERCONNECTION src="0/16395d9" srcPin="2" dst="0/cb1de4" dstPin="2"/>
+    <FILTERCONNECTION src="0/cb1de4" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/cb1de4" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/16395d9" srcPin="1" dst="0/0" dstPin="11"/>
+    <FILTERCONNECTION src="0/16395d9" srcPin="2" dst="0/0" dstPin="12"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="Left" midi="0"/>
+    <INPUT name="Right" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="Left" midi="0"/>
+    <OUTPUT name="Right" midi="0"/>
+    <OUTPUT name="Out 1 Left" midi="0"/>
+    <OUTPUT name="Out 1 Right" midi="0"/>
+    <OUTPUT name="Out 2 Left" midi="0"/>
+    <OUTPUT name="Out 2 Right" midi="0"/>
+    <OUTPUT name="Out 3 Left" midi="0"/>
+    <OUTPUT name="Out 3 Right" midi="0"/>
+    <OUTPUT name="Out 4 Left" midi="0"/>
+    <OUTPUT name="Out 4 Right" midi="0"/>
+    <OUTPUT name="Out 5 Left" midi="0"/>
+    <OUTPUT name="Out 5 Right" midi="0"/>
+  </RACKFILTER>
+</PRESET>

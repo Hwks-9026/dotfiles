@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Dance Kick" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Dance Kick.trkpreset">
+  <RACKFILTER name="Dance Kick" id="31d7f7b" windowPos="80 102 600 500" windowLocked="0">
+    <FILTERINSTANCE x="0.16194331645965576" y="0.61000001430511475">
+      <FILTER type="level" showMidi="0" id="0/e98c91"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.4048582911491394" y="0.61000001430511475">
+      <FILTER type="compressor" enabled="1" threshold="0.064045600593090057"
+              ratio="0.050000011920928955" attack="130.78599548339844" release="33.068199157714844"
+              outputDb="7" id="0/373e57b"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.64777326583862305" y="0.61500000953674316">
+      <FILTER type="level" showMidi="0" id="0/8c130e"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.85627532005310059" y="0.61500000953674316">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="-0.26845601201057434"
+              midFreq1="544.1669921875" midQ1="0.5" midGain2="-6.1744999885559082"
+              midFreq2="2327.93994140625" midQ2="2.5010299682617187" id="0/200f8ab"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/e98c91" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/e98c91" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/0" dstPin="0"/>
+    <FILTERCONNECTION src="0/e98c91" srcPin="1" dst="0/373e57b" dstPin="1"/>
+    <FILTERCONNECTION src="0/e98c91" srcPin="2" dst="0/373e57b" dstPin="2"/>
+    <FILTERCONNECTION src="0/373e57b" srcPin="1" dst="0/8c130e" dstPin="1"/>
+    <FILTERCONNECTION src="0/373e57b" srcPin="2" dst="0/8c130e" dstPin="2"/>
+    <FILTERCONNECTION src="0/8c130e" srcPin="1" dst="0/200f8ab" dstPin="1"/>
+    <FILTERCONNECTION src="0/8c130e" srcPin="2" dst="0/200f8ab" dstPin="2"/>
+    <FILTERCONNECTION src="0/200f8ab" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/200f8ab" srcPin="2" dst="0/0" dstPin="2"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACKFILTER>
+</PRESET>

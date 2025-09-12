@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Smoke" tags="Pattern|Progression" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Progression Smoke.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="ii"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="v"/>
+  </PROGRESSION>
+</PRESET>

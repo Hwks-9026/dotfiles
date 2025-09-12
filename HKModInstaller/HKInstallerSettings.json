@@ -1,0 +1,38 @@
+{
+  "ManagedFolder": "/home/hwks/GOG Games/Hollow.Knight.v1.5.78.11833/Hollow.Knight.v1.5.78.11833/Hollow Knight_Data/Managed",
+  "AutoRemoveUnusedDeps": "Never",
+  "WarnBeforeRemovingDependents": true,
+  "UseCustomModlinks": false,
+  "CustomModlinksUri": "",
+  "UseGithubMirror": false,
+  "GithubMirrorFormat": "",
+  "PreferredLanguage": "en",
+  "LowStorageMode": false,
+  "ExtraSpaceTaken": "0 MB",
+  "RequiresWorkaroundClient": false,
+  "Game": "hollow_knight",
+  "CurrentProfile": {
+    "Name": "Hollow Knight",
+    "SteamAppId": "367520",
+    "ExeNames": [
+      "Hollow Knight.exe",
+      "hollow_knight.exe"
+    ],
+    "DataFolder": "Hollow Knight_Data",
+    "GogIds": [
+      "1308320804"
+    ],
+    "SavePaths": {
+      "windows": [
+        "AppData/LocalLow/Team Cherry/Hollow Knight"
+      ],
+      "mac": [
+        "Library/Application Support/unity.Team Cherry.Hollow Knight"
+      ],
+      "linux": [
+        ".config/unity3d/Team Cherry/Hollow Knight"
+      ]
+    }
+  },
+  "CacheFolder": "/home/hwks/.config/HKModInstaller/HKInstallerCache"
+}

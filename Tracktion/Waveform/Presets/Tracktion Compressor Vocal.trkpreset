@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Tracktion Compressor: Vocal" tags="Tracktion Compressor"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Tracktion Compressor Vocal.trkpreset">
+  <FILTER type="compressor" enabled="1" threshold="0.4625714" ratio="0.125053"
+          attack="0.3" release="10." outputDb="0."/>
+</PRESET>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Call Your Girlfriend" tags="Pattern|Progression"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Progression Call Your Girlfriend.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="vi"/>
+    <PROGRESSIONITEM name="v"/>
+  </PROGRESSION>
+</PRESET>

@@ -1,0 +1,301 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="rim" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="toqlybumox05" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/gameloop.rs" file-id="366" managing-fs="1755277850497">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="836">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"gameloop.rs","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,45,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,85,114,108,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,95,10,93,106,97,114,58,102,105,108,101,58,47,111,112,116,47,114,117,115,116,114,111,118,101,114,47,112,108,117,103,105,110,115,47,105,110,116,101,108,108,105,106,45,114,117,115,116,47,108,105,98,47,105,110,116,101,108,108,105,106,45,114,117,115,116,46,106,97,114,33,47,105,99,111,110,115,47,101,120,112,117,105,47,114,117,115,116,70,105,108,101,46,115,118,103]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Rust": {
+      "usageCount": 2,
+      "lastUsed": 1755278529166
+    },
+    "WebPreview": {
+      "usageCount": 1,
+      "lastUsed": 1755277941653
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Rust">
+      <summary usageCount="2" lastUsage="1755278529168" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hwks/git/rim}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hwks/git/rim}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hwks/git/rim/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rim" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hwks/git/rim}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hwks/git/rim/target}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="rim" />
+            <item name="rim" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="rim" />
+              <item name="dir{file:///home/hwks/git/rim}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/src" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                <item name="dir{file:///home/hwks/git/rim/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main.rs" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="main.rs" />
+                  <item name="main.rs" type="f3e56494:RsPsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/gameloop.rs" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="gameloop.rs" />
+                  <item name="gameloop.rs" type="f3e56494:RsPsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/map.rs" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="map.rs" />
+                  <item name="map.rs" type="f3e56494:RsPsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/system.rs" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="system.rs" />
+                  <item name="system.rs" type="f3e56494:RsPsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/utils.rs" />
+                    </map>
+                  </attributes>
+                  <data isLeaf="true" text="utils.rs" />
+                  <item name="utils.rs" type="f3e56494:RsPsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/target" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                <item name="dir{file:///home/hwks/git/rim/target}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/target/debug" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="debug" />
+                  <item name="dir{file:///home/hwks/git/rim/target/debug}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/target/release" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="release" />
+                  <item name="dir{file:///home/hwks/git/rim/target/release}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/target/.rustc_info.json" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/json.svg" iconPlugin="com.intellij" isLeaf="true" text=".rustc_info.json" />
+                  <item name=".rustc_info.json" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/target/CACHEDIR.TAG" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/jsp.svg" iconPlugin="com.intellij" isLeaf="true" text="CACHEDIR.TAG" />
+                  <item name="CACHEDIR.TAG" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Cargo.lock" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Cargo.lock" />
+                <item name="Cargo.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Cargo.toml" />
+                  </map>
+                </attributes>
+                <data isLeaf="true" text="Cargo.toml" />
+                <item name="Cargo.toml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Cargo.Run rim" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="743000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.024072612" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.32999355" />
+      <window_info anchor="bottom" id="Messages" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.32999355" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Cargo" order="5" weight="0.2" />
+      <window_info anchor="right" id="RustCargo" order="6" weight="0.20007893" />
+      <unified_weights bottom="0.32999355" left="0.024072612" right="0.20007893" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>RustCargo</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1516" y="491" key="#Run/Debug_Configuration_Templates" timestamp="1755278583523">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="1516" y="491" key="#Run/Debug_Configuration_Templates/0.0.2560.1600/2560.0.1920.1080@0.0.2560.1600" timestamp="1755278583523" />
+    <state x="1516" y="491" width="800" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1755278585197">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="1516" y="491" width="800" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1600/2560.0.1920.1080@0.0.2560.1600" timestamp="1755278585197" />
+    <state width="2458" height="468" key="GridCell.Tab.0.bottom" timestamp="1755278697116">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="468" key="GridCell.Tab.0.bottom/0.0.2560.1600/2560.0.1920.1080@0.0.2560.1600" timestamp="1755278697116" />
+    <state width="2458" height="468" key="GridCell.Tab.0.center" timestamp="1755278697116">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="468" key="GridCell.Tab.0.center/0.0.2560.1600/2560.0.1920.1080@0.0.2560.1600" timestamp="1755278697116" />
+    <state width="2458" height="468" key="GridCell.Tab.0.left" timestamp="1755278697116">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="468" key="GridCell.Tab.0.left/0.0.2560.1600/2560.0.1920.1080@0.0.2560.1600" timestamp="1755278697116" />
+    <state width="2458" height="468" key="GridCell.Tab.0.right" timestamp="1755278697116">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state width="2458" height="468" key="GridCell.Tab.0.right/0.0.2560.1600/2560.0.1920.1080@0.0.2560.1600" timestamp="1755278697116" />
+    <state x="417" y="197" width="1977" height="1034" key="SettingsEditor" timestamp="1755278514696">
+      <screen x="0" y="0" width="2560" height="1600" />
+    </state>
+    <state x="417" y="197" width="1977" height="1034" key="SettingsEditor/0.0.2560.1600/2560.0.1920.1080@0.0.2560.1600" timestamp="1755278514696" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/gameloop.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

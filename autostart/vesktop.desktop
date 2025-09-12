@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Vesktop
+Comment=Vesktop autostart script
+Exec="/usr/lib/electron36/electron" "--gtk-version=3" "/usr/lib/vesktop/app.asar" "env ELECTRON_OZONE_PLATFORM_HINT=auto" ""
+StartupNotify=false
+Terminal=false

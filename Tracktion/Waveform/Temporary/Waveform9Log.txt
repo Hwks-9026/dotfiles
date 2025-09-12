@@ -1,0 +1,370 @@
+
+**********************************************************
+Waveform 64-bit version: 9.3.2 (Built: 21 August 2018)
+Log started: 11 Aug 2025 10:08:50pm
+
+11 Aug 2025 22:08:50  Initialising...
+11 Aug 2025 22:08:50  Initialising windows...
+11 Aug 2025 22:08:50  Language: American English
+11 Aug 2025 22:08:51  Initialising plugins...
+11 Aug 2025 22:08:51  Doing first-run setup...
+11 Aug 2025 22:08:51  EULA...
+11 Aug 2025 22:08:51  Loop library loaded 0 loops in 8 ms
+11 Aug 2025 22:08:51  Preset database loaded 284 presets in 131 ms seconds
+11 Aug 2025 22:08:53  Installer...
+11 Aug 2025 22:08:54  userID: ab7daff7-3e82-482e-aef2-a6514ba4f24a
+11 Aug 2025 22:08:58  First-run setup complete...
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  /usr/bin/Waveform9
+11 Aug 2025 22:08:58  Linux
+11 Aug 2025 22:08:58  CPU: 400MHz  Cores: 22  31589MB
+11 Aug 2025 22:08:58  Events file size: 53 bytes
+11 Aug 2025 22:08:58  Initialising file formats...
+11 Aug 2025 22:08:58  Initialising projects...
+11 Aug 2025 22:08:58  Initialising devices...
+11 Aug 2025 22:08:58  Image database loaded 0 images in 0 seconds
+11 Aug 2025 22:08:58  Finding MIDI I/O
+11 Aug 2025 22:08:58  MIDI output: Midi Through Port-0
+11 Aug 2025 22:08:58  MIDI input: Midi Through Port-0
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  opening MIDI in device: Midi Through Port-0
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  opening MIDI out device:Midi Through Port-0
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  ALSA: scanForDevices()
+11 Aug 2025 22:08:58  ALSA: ID: null; desc: Discard all samples (playback) or generate zero samples (capture); ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: lavrate; desc: Rate Converter Plugin Using Libav/FFmpeg Library; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: samplerate; desc: Rate Converter Plugin Using Samplerate Library; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: speexrate; desc: Rate Converter Plugin Using Speex Resampler; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: jack; desc: JACK Audio Connection Kit; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: oss; desc: Open Sound System; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: pipewire; desc: PipeWire Sound Server; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: pulse; desc: PulseAudio Sound Server; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: speex; desc: Plugin using Speex DSP (resample, agc, denoise, echo, dereverb); ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: upmix; desc: Plugin for channel upmix (4,6,8); ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: vdownmix; desc: Plugin for channel downmix (stereo) with a simple spacialization; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: default; desc: Default ALSA Output (currently PipeWire Media Server); ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: sysdefault:CARD=sofhdadsp; desc: sof-hda-dsp, 
+Default Audio Device; ioid: 
+11 Aug 2025 22:08:58  ALSA: ID: hdmi:CARD=sofhdadsp,DEV=0; desc: sof-hda-dsp, 
+HDMI Audio Output; ioid: Output
+11 Aug 2025 22:08:58  ALSA: ID: hdmi:CARD=sofhdadsp,DEV=1; desc: sof-hda-dsp, 
+HDMI Audio Output; ioid: Output
+11 Aug 2025 22:08:58  ALSA: ID: hdmi:CARD=sofhdadsp,DEV=2; desc: sof-hda-dsp, 
+HDMI Audio Output; ioid: Output
+11 Aug 2025 22:08:58  ALSA: ID: usbstream:CARD=sofhdadsp; desc: sof-hda-dsp
+USB Stream Output; ioid: 
+11 Aug 2025 22:08:58  ALSA: getDeviceProperties(default)
+11 Aug 2025 22:08:58  ALSA: getDeviceNumChannels: 1 64
+11 Aug 2025 22:08:58  ALSA: getDeviceProperties(default)
+11 Aug 2025 22:08:58  ALSA: getDeviceNumChannels: 1 64
+11 Aug 2025 22:08:58  ALSA: snd_pcm_open (default, forInput=1)
+11 Aug 2025 22:08:58  ALSA: ALSADevice::setParameters(default, 44100, 64, 512)
+11 Aug 2025 22:08:58  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=64
+11 Aug 2025 22:08:58  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+11 Aug 2025 22:08:58  ALSA: snd_pcm_open (default, forInput=0)
+11 Aug 2025 22:08:58  ALSA: ALSADevice::setParameters(default, 44100, 64, 512)
+11 Aug 2025 22:08:58  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=64
+11 Aug 2025 22:08:58  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+11 Aug 2025 22:08:58  Audio block size: 512  Rate: 44100
+11 Aug 2025 22:08:58  Rebuilding Wave Device List...
+11 Aug 2025 22:08:58  Wave In: channel 1 (enabled): 0 (L)
+11 Aug 2025 22:08:58  Wave In: channel 2 (enabled): 1 (L)
+11 Aug 2025 22:08:58  Wave In: channel 3: 2 (L)
+11 Aug 2025 22:08:58  Wave In: channel 4: 3 (L)
+11 Aug 2025 22:08:58  Wave In: channel 5: 4 (L)
+11 Aug 2025 22:08:58  Wave In: channel 6: 5 (L)
+11 Aug 2025 22:08:58  Wave In: channel 7: 6 (L)
+11 Aug 2025 22:08:58  Wave In: channel 8: 7 (L)
+11 Aug 2025 22:08:58  Wave In: channel 9: 8 (L)
+11 Aug 2025 22:08:58  Wave In: channel 10: 9 (L)
+11 Aug 2025 22:08:58  Wave In: channel 11: 10 (L)
+11 Aug 2025 22:08:58  Wave In: channel 12: 11 (L)
+11 Aug 2025 22:08:58  Wave In: channel 13: 12 (L)
+11 Aug 2025 22:08:58  Wave In: channel 14: 13 (L)
+11 Aug 2025 22:08:58  Wave In: channel 15: 14 (L)
+11 Aug 2025 22:08:58  Wave In: channel 16: 15 (L)
+11 Aug 2025 22:08:58  Wave In: channel 17: 16 (L)
+11 Aug 2025 22:08:58  Wave In: channel 18: 17 (L)
+11 Aug 2025 22:08:58  Wave In: channel 19: 18 (L)
+11 Aug 2025 22:08:58  Wave In: channel 20: 19 (L)
+11 Aug 2025 22:08:58  Wave In: channel 21: 20 (L)
+11 Aug 2025 22:08:58  Wave In: channel 22: 21 (L)
+11 Aug 2025 22:08:58  Wave In: channel 23: 22 (L)
+11 Aug 2025 22:08:58  Wave In: channel 24: 23 (L)
+11 Aug 2025 22:08:58  Wave In: channel 25: 24 (L)
+11 Aug 2025 22:08:58  Wave In: channel 26: 25 (L)
+11 Aug 2025 22:08:58  Wave In: channel 27: 26 (L)
+11 Aug 2025 22:08:58  Wave In: channel 28: 27 (L)
+11 Aug 2025 22:08:58  Wave In: channel 29: 28 (L)
+11 Aug 2025 22:08:58  Wave In: channel 30: 29 (L)
+11 Aug 2025 22:08:58  Wave In: channel 31: 30 (L)
+11 Aug 2025 22:08:58  Wave In: channel 32: 31 (L)
+11 Aug 2025 22:08:58  Wave In: channel 33: 32 (L)
+11 Aug 2025 22:08:58  Wave In: channel 34: 33 (L)
+11 Aug 2025 22:08:58  Wave In: channel 35: 34 (L)
+11 Aug 2025 22:08:58  Wave In: channel 36: 35 (L)
+11 Aug 2025 22:08:58  Wave In: channel 37: 36 (L)
+11 Aug 2025 22:08:58  Wave In: channel 38: 37 (L)
+11 Aug 2025 22:08:58  Wave In: channel 39: 38 (L)
+11 Aug 2025 22:08:58  Wave In: channel 40: 39 (L)
+11 Aug 2025 22:08:58  Wave In: channel 41: 40 (L)
+11 Aug 2025 22:08:58  Wave In: channel 42: 41 (L)
+11 Aug 2025 22:08:58  Wave In: channel 43: 42 (L)
+11 Aug 2025 22:08:58  Wave In: channel 44: 43 (L)
+11 Aug 2025 22:08:58  Wave In: channel 45: 44 (L)
+11 Aug 2025 22:08:58  Wave In: channel 46: 45 (L)
+11 Aug 2025 22:08:58  Wave In: channel 47: 46 (L)
+11 Aug 2025 22:08:58  Wave In: channel 48: 47 (L)
+11 Aug 2025 22:08:58  Wave In: channel 49: 48 (L)
+11 Aug 2025 22:08:58  Wave In: channel 50: 49 (L)
+11 Aug 2025 22:08:58  Wave In: channel 51: 50 (L)
+11 Aug 2025 22:08:58  Wave In: channel 52: 51 (L)
+11 Aug 2025 22:08:58  Wave In: channel 53: 52 (L)
+11 Aug 2025 22:08:58  Wave In: channel 54: 53 (L)
+11 Aug 2025 22:08:58  Wave In: channel 55: 54 (L)
+11 Aug 2025 22:08:58  Wave In: channel 56: 55 (L)
+11 Aug 2025 22:08:58  Wave In: channel 57: 56 (L)
+11 Aug 2025 22:08:58  Wave In: channel 58: 57 (L)
+11 Aug 2025 22:08:58  Wave In: channel 59: 58 (L)
+11 Aug 2025 22:08:58  Wave In: channel 60: 59 (L)
+11 Aug 2025 22:08:58  Wave In: channel 61: 60 (L)
+11 Aug 2025 22:08:58  Wave In: channel 62: 61 (L)
+11 Aug 2025 22:08:58  Wave In: channel 63: 62 (L)
+11 Aug 2025 22:08:58  Wave In: channel 64: 63 (L)
+11 Aug 2025 22:08:58  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 3 + 4: 2 (L), 3 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 5 + 6: 4 (L), 5 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 7 + 8: 6 (L), 7 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 9 + 10: 8 (L), 9 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 11 + 12: 10 (L), 11 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 13 + 14: 12 (L), 13 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 15 + 16: 14 (L), 15 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 17 + 18: 16 (L), 17 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 19 + 20: 18 (L), 19 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 21 + 22: 20 (L), 21 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 23 + 24: 22 (L), 23 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 25 + 26: 24 (L), 25 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 27 + 28: 26 (L), 27 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 29 + 30: 28 (L), 29 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 31 + 32: 30 (L), 31 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 33 + 34: 32 (L), 33 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 35 + 36: 34 (L), 35 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 37 + 38: 36 (L), 37 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 39 + 40: 38 (L), 39 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 41 + 42: 40 (L), 41 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 43 + 44: 42 (L), 43 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 45 + 46: 44 (L), 45 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 47 + 48: 46 (L), 47 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 49 + 50: 48 (L), 49 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 51 + 52: 50 (L), 51 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 53 + 54: 52 (L), 53 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 55 + 56: 54 (L), 55 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 57 + 58: 56 (L), 57 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 59 + 60: 58 (L), 59 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 61 + 62: 60 (L), 61 (R)
+11 Aug 2025 22:08:58  Wave Out: channel 63 + 64: 62 (L), 63 (R)
+11 Aug 2025 22:08:58  Default Wave: channel 1 + 2
+11 Aug 2025 22:08:58  Default MIDI: Midi Through Port-0
+11 Aug 2025 22:08:58  Initialising ReWire...
+11 Aug 2025 22:08:58  Initialising controllers...
+11 Aug 2025 22:08:58  Creating Default Controllers...
+11 Aug 2025 22:08:58  Loading Custom Controllers...
+11 Aug 2025 22:08:58  Reloading Windows...
+11 Aug 2025 22:08:58  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:08:58  Machine ID: L3E4EA1090 D
+11 Aug 2025 22:08:58  Starting checking for updates
+11 Aug 2025 22:08:58  Crash Location: UnknownLocation
+11 Aug 2025 22:08:58  Maintenance took: 1 ms
+11 Aug 2025 22:08:58  Crashed
+11 Aug 2025 22:08:58  
+
+11 Aug 2025 22:08:58  Thread 0:
+11 Aug 2025 22:08:58    0: UpdateChecker.cpp:checkForUpdates:75
+
+**********************************************************
+Waveform 64-bit version: 9.3.2 (Built: 21 August 2018)
+Log started: 11 Aug 2025 10:09:05pm
+
+11 Aug 2025 22:09:05  Initialising...
+11 Aug 2025 22:09:05  Initialising windows...
+11 Aug 2025 22:09:05  Language: American English
+11 Aug 2025 22:09:05  Initialising plugins...
+11 Aug 2025 22:09:05  Last run failed to shut down cleanly
+11 Aug 2025 22:09:05  /usr/bin/Waveform9
+11 Aug 2025 22:09:05  Linux
+11 Aug 2025 22:09:05  CPU: 400MHz  Cores: 22  31589MB
+11 Aug 2025 22:09:05  userID: eadb0d03-0b74-4df2-b1ac-c793ade1705f
+11 Aug 2025 22:09:05  Events file size: 1.2 KB
+11 Aug 2025 22:09:05  Initialising file formats...
+11 Aug 2025 22:09:05  Initialising projects...
+11 Aug 2025 22:09:05  Initialising devices...
+11 Aug 2025 22:09:05  Image database loaded 0 images in 0 seconds
+11 Aug 2025 22:09:05  Loop library loaded 3 loops in 14 ms
+11 Aug 2025 22:09:05  Finding MIDI I/O
+11 Aug 2025 22:09:05  MIDI output: Midi Through Port-0 (enabled)
+11 Aug 2025 22:09:05  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:09:05  opening MIDI out device:Midi Through Port-0
+11 Aug 2025 22:09:05  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:09:05  MIDI input: Midi Through Port-0 (enabled)
+11 Aug 2025 22:09:05  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:09:05  opening MIDI in device: Midi Through Port-0
+11 Aug 2025 22:09:05  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:09:05  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:09:05  ALSA: scanForDevices()
+11 Aug 2025 22:09:05  ALSA: ID: null; desc: Discard all samples (playback) or generate zero samples (capture); ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: lavrate; desc: Rate Converter Plugin Using Libav/FFmpeg Library; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: samplerate; desc: Rate Converter Plugin Using Samplerate Library; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: speexrate; desc: Rate Converter Plugin Using Speex Resampler; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: jack; desc: JACK Audio Connection Kit; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: oss; desc: Open Sound System; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: pipewire; desc: PipeWire Sound Server; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: pulse; desc: PulseAudio Sound Server; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: speex; desc: Plugin using Speex DSP (resample, agc, denoise, echo, dereverb); ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: upmix; desc: Plugin for channel upmix (4,6,8); ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: vdownmix; desc: Plugin for channel downmix (stereo) with a simple spacialization; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: default; desc: Default ALSA Output (currently PipeWire Media Server); ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: sysdefault:CARD=sofhdadsp; desc: sof-hda-dsp, 
+Default Audio Device; ioid: 
+11 Aug 2025 22:09:05  ALSA: ID: hdmi:CARD=sofhdadsp,DEV=0; desc: sof-hda-dsp, 
+HDMI Audio Output; ioid: Output
+11 Aug 2025 22:09:05  ALSA: ID: hdmi:CARD=sofhdadsp,DEV=1; desc: sof-hda-dsp, 
+HDMI Audio Output; ioid: Output
+11 Aug 2025 22:09:05  ALSA: ID: hdmi:CARD=sofhdadsp,DEV=2; desc: sof-hda-dsp, 
+HDMI Audio Output; ioid: Output
+11 Aug 2025 22:09:05  ALSA: ID: usbstream:CARD=sofhdadsp; desc: sof-hda-dsp
+USB Stream Output; ioid: 
+11 Aug 2025 22:09:05  ALSA: getDeviceProperties(default)
+11 Aug 2025 22:09:05  ALSA: getDeviceNumChannels: 1 64
+11 Aug 2025 22:09:05  ALSA: getDeviceProperties(default)
+11 Aug 2025 22:09:05  ALSA: getDeviceNumChannels: 1 64
+11 Aug 2025 22:09:05  ALSA: snd_pcm_open (default, forInput=1)
+11 Aug 2025 22:09:05  ALSA: ALSADevice::setParameters(default, 44100, 64, 512)
+11 Aug 2025 22:09:05  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=64
+11 Aug 2025 22:09:05  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+11 Aug 2025 22:09:05  ALSA: snd_pcm_open (default, forInput=0)
+11 Aug 2025 22:09:05  ALSA: ALSADevice::setParameters(default, 44100, 64, 512)
+11 Aug 2025 22:09:05  ALSA: format: bitDepth=32, isFloat=1, isLittleEndian=1, numChannels=64
+11 Aug 2025 22:09:05  ALSA: frames: 512, periods: 4, samplesPerPeriod: 512
+11 Aug 2025 22:09:05  Audio block size: 512  Rate: 44100
+11 Aug 2025 22:09:05  Rebuilding Wave Device List...
+11 Aug 2025 22:09:05  Wave In: channel 1 (enabled): 0 (L)
+11 Aug 2025 22:09:05  Wave In: channel 2 (enabled): 1 (L)
+11 Aug 2025 22:09:05  Wave In: channel 3: 2 (L)
+11 Aug 2025 22:09:05  Wave In: channel 4: 3 (L)
+11 Aug 2025 22:09:05  Wave In: channel 5: 4 (L)
+11 Aug 2025 22:09:05  Wave In: channel 6: 5 (L)
+11 Aug 2025 22:09:05  Wave In: channel 7: 6 (L)
+11 Aug 2025 22:09:05  Wave In: channel 8: 7 (L)
+11 Aug 2025 22:09:05  Wave In: channel 9: 8 (L)
+11 Aug 2025 22:09:05  Wave In: channel 10: 9 (L)
+11 Aug 2025 22:09:05  Wave In: channel 11: 10 (L)
+11 Aug 2025 22:09:05  Wave In: channel 12: 11 (L)
+11 Aug 2025 22:09:05  Wave In: channel 13: 12 (L)
+11 Aug 2025 22:09:05  Wave In: channel 14: 13 (L)
+11 Aug 2025 22:09:05  Wave In: channel 15: 14 (L)
+11 Aug 2025 22:09:05  Wave In: channel 16: 15 (L)
+11 Aug 2025 22:09:05  Wave In: channel 17: 16 (L)
+11 Aug 2025 22:09:05  Wave In: channel 18: 17 (L)
+11 Aug 2025 22:09:05  Wave In: channel 19: 18 (L)
+11 Aug 2025 22:09:05  Wave In: channel 20: 19 (L)
+11 Aug 2025 22:09:05  Wave In: channel 21: 20 (L)
+11 Aug 2025 22:09:05  Wave In: channel 22: 21 (L)
+11 Aug 2025 22:09:05  Wave In: channel 23: 22 (L)
+11 Aug 2025 22:09:05  Wave In: channel 24: 23 (L)
+11 Aug 2025 22:09:05  Wave In: channel 25: 24 (L)
+11 Aug 2025 22:09:05  Wave In: channel 26: 25 (L)
+11 Aug 2025 22:09:05  Wave In: channel 27: 26 (L)
+11 Aug 2025 22:09:05  Wave In: channel 28: 27 (L)
+11 Aug 2025 22:09:05  Wave In: channel 29: 28 (L)
+11 Aug 2025 22:09:05  Wave In: channel 30: 29 (L)
+11 Aug 2025 22:09:05  Wave In: channel 31: 30 (L)
+11 Aug 2025 22:09:05  Wave In: channel 32: 31 (L)
+11 Aug 2025 22:09:05  Wave In: channel 33: 32 (L)
+11 Aug 2025 22:09:05  Wave In: channel 34: 33 (L)
+11 Aug 2025 22:09:05  Wave In: channel 35: 34 (L)
+11 Aug 2025 22:09:05  Wave In: channel 36: 35 (L)
+11 Aug 2025 22:09:05  Wave In: channel 37: 36 (L)
+11 Aug 2025 22:09:05  Wave In: channel 38: 37 (L)
+11 Aug 2025 22:09:05  Wave In: channel 39: 38 (L)
+11 Aug 2025 22:09:05  Wave In: channel 40: 39 (L)
+11 Aug 2025 22:09:05  Wave In: channel 41: 40 (L)
+11 Aug 2025 22:09:05  Wave In: channel 42: 41 (L)
+11 Aug 2025 22:09:05  Wave In: channel 43: 42 (L)
+11 Aug 2025 22:09:05  Wave In: channel 44: 43 (L)
+11 Aug 2025 22:09:05  Wave In: channel 45: 44 (L)
+11 Aug 2025 22:09:05  Wave In: channel 46: 45 (L)
+11 Aug 2025 22:09:05  Wave In: channel 47: 46 (L)
+11 Aug 2025 22:09:05  Wave In: channel 48: 47 (L)
+11 Aug 2025 22:09:05  Wave In: channel 49: 48 (L)
+11 Aug 2025 22:09:05  Wave In: channel 50: 49 (L)
+11 Aug 2025 22:09:05  Wave In: channel 51: 50 (L)
+11 Aug 2025 22:09:05  Wave In: channel 52: 51 (L)
+11 Aug 2025 22:09:05  Wave In: channel 53: 52 (L)
+11 Aug 2025 22:09:05  Wave In: channel 54: 53 (L)
+11 Aug 2025 22:09:05  Wave In: channel 55: 54 (L)
+11 Aug 2025 22:09:05  Wave In: channel 56: 55 (L)
+11 Aug 2025 22:09:05  Wave In: channel 57: 56 (L)
+11 Aug 2025 22:09:05  Wave In: channel 58: 57 (L)
+11 Aug 2025 22:09:05  Wave In: channel 59: 58 (L)
+11 Aug 2025 22:09:05  Wave In: channel 60: 59 (L)
+11 Aug 2025 22:09:05  Wave In: channel 61: 60 (L)
+11 Aug 2025 22:09:05  Wave In: channel 62: 61 (L)
+11 Aug 2025 22:09:05  Wave In: channel 63: 62 (L)
+11 Aug 2025 22:09:05  Wave In: channel 64: 63 (L)
+11 Aug 2025 22:09:05  Wave Out: channel 1 + 2 (enabled): 0 (L), 1 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 3 + 4: 2 (L), 3 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 5 + 6: 4 (L), 5 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 7 + 8: 6 (L), 7 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 9 + 10: 8 (L), 9 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 11 + 12: 10 (L), 11 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 13 + 14: 12 (L), 13 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 15 + 16: 14 (L), 15 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 17 + 18: 16 (L), 17 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 19 + 20: 18 (L), 19 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 21 + 22: 20 (L), 21 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 23 + 24: 22 (L), 23 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 25 + 26: 24 (L), 25 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 27 + 28: 26 (L), 27 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 29 + 30: 28 (L), 29 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 31 + 32: 30 (L), 31 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 33 + 34: 32 (L), 33 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 35 + 36: 34 (L), 35 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 37 + 38: 36 (L), 37 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 39 + 40: 38 (L), 39 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 41 + 42: 40 (L), 41 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 43 + 44: 42 (L), 43 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 45 + 46: 44 (L), 45 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 47 + 48: 46 (L), 47 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 49 + 50: 48 (L), 49 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 51 + 52: 50 (L), 51 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 53 + 54: 52 (L), 53 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 55 + 56: 54 (L), 55 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 57 + 58: 56 (L), 57 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 59 + 60: 58 (L), 59 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 61 + 62: 60 (L), 61 (R)
+11 Aug 2025 22:09:05  Wave Out: channel 63 + 64: 62 (L), 63 (R)
+11 Aug 2025 22:09:05  Default Wave: channel 1 + 2
+11 Aug 2025 22:09:05  Default MIDI: Midi Through Port-0
+11 Aug 2025 22:09:05  Initialising ReWire...
+11 Aug 2025 22:09:05  Initialising controllers...
+11 Aug 2025 22:09:05  Preset database loaded 284 presets in 115 ms seconds
+11 Aug 2025 22:09:05  Creating Default Controllers...
+11 Aug 2025 22:09:05  Loading Custom Controllers...
+11 Aug 2025 22:09:07  Reloading Windows...
+11 Aug 2025 22:09:07  Machine ID: L3E4EA1090 D
+11 Aug 2025 22:09:07  Starting checking for updates
+11 Aug 2025 22:09:07  Finished checking for updates: 353 ms
+11 Aug 2025 22:10:08  Closing window..
+11 Aug 2025 22:10:08  Wrote settings file: /home/hwks/.config/Tracktion/Waveform/Tracktion.settings
+11 Aug 2025 22:10:08  Saving..
+11 Aug 2025 22:10:08  Closing controllers..
+11 Aug 2025 22:10:08  Closing devices..
+11 Aug 2025 22:10:08  closing MIDI output: Midi Through Port-0
+11 Aug 2025 22:10:08  Closing MIDI in device: Midi Through Port-0
+11 Aug 2025 22:10:08  Cleaning up temp files..
+11 Aug 2025 22:10:09  Maintenance took: 202 ms
+11 Aug 2025 22:10:09  Finished shutdown

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: La Bamba" tags="Pattern|Progression" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Progression La Bamba.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="iv"/>
+    <PROGRESSIONITEM name="v"/>
+  </PROGRESSION>
+</PRESET>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Delay (chorus)" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Delay (chorus).trkpreset">
+  <RACKFILTER name="Delay (chorus)" id="13d413c2">
+    <FILTERINSTANCE x="0.322033912" y="0.2360515">
+      <FILTER type="delay" enabled="1" length="404" feedback="-4.30188608"
+              mix="1" id="0/13d412d0" quickParamName="feedback"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.493946731" y="0.2360515">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="0" loGain="-10.0680275"
+              loFreq="357.587769" loQ="0.422236204" hiGain="-6.80272102" hiFreq="8501.53418"
+              hiQ="1.22705936" midGain1="3.26530623" midFreq1="315.956757"
+              midQ1="1.00990248" midGain2="3.53741503" midFreq2="1622.23706"
+              midQ2="0.875288069" id="0/13d412d2"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.66585958" y="0.2360515">
+      <FILTER type="volume" enabled="1" volume="0.40656966" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/13d412d3"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.83414042" y="0.2360515">
+      <FILTER type="level" showMidi="0" id="0/13d3e947"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.838983059" y="1">
+      <FILTER type="level" showMidi="0" id="0/13d3e94a"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.670702159" y="1">
+      <FILTER type="volume" enabled="1" volume="0.740818202" pan="0" applyToMidi="0"
+              ignoreVca="0" id="0/13d3e949"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.147699758" y="0.2360515">
+      <FILTER type="chorus" enabled="1" depthMs="11.7396231" speedHz="0.100000001"
+              width="0.260377347" mix="1" id="0/13d412d4"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.496368051" y="0.614583313">
+      <FILTER type="text" title="read me" body="This rack is set up to provide a delay effect, with chorus and EQ applied just to the delay repeats and not the dry signal.&#10;&#10;The rack is set up as an insert effect, with the upper volume filter controlling the delay level and the lower volume filter controlling the dry level. To use this rack as a send effect simply mute or delete the lower volume filter and its level meter.&#10;&#10;The delay feedback can be adjusted using the quick controller on the filter icon.&#10;&#10;DW"
+              id="0/903b543"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/13d412d2" srcPin="1" dst="0/13d412d3" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d412d2" srcPin="0" dst="0/13d412d3" dstPin="0"/>
+    <FILTERCONNECTION src="0/13d412d2" srcPin="2" dst="0/13d412d3" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d412d0" srcPin="0" dst="0/13d412d2" dstPin="0"/>
+    <FILTERCONNECTION src="0/13d412d0" srcPin="1" dst="0/13d412d2" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d412d0" srcPin="2" dst="0/13d412d2" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d3e947" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d3e947" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d412d3" srcPin="1" dst="0/13d3e947" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d412d3" srcPin="2" dst="0/13d3e947" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d412d3" srcPin="0" dst="0/13d3e947" dstPin="0"/>
+    <FILTERCONNECTION src="0/13d3e947" srcPin="0" dst="0/0" dstPin="0"/>
+    <FILTERCONNECTION src="0/13d3e94a" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/13d3e949" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/13d3e949" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d3e949" srcPin="1" dst="0/13d3e94a" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d3e949" srcPin="2" dst="0/13d3e94a" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d3e94a" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d412d4" srcPin="1" dst="0/13d412d0" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d412d4" srcPin="2" dst="0/13d412d0" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/13d412d4" dstPin="0"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/13d412d4" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/13d412d4" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d412d4" srcPin="0" dst="0/13d412d0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACKFILTER>
+</PRESET>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Progression: Game of Thrones" tags="Pattern|Progression"
+        path="/home/hwks/.config/Tracktion/Waveform/Presets" filename="Progression Game of Thrones.trkpreset">
+  <PROGRESSION>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="v"/>
+    <PROGRESSIONITEM name="vii"/>
+    <PROGRESSIONITEM name="vii"/>
+    <PROGRESSIONITEM name="i"/>
+    <PROGRESSIONITEM name="i"/>
+  </PROGRESSION>
+</PRESET>

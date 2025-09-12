@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Big Mess" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Big Mess.trkpreset">
+  <RACKFILTER name="Big Mess" id="2a10bd2">
+    <FILTERINSTANCE x="0.514056206" y="0.141891897">
+      <FILTER type="chorus" enabled="1" depthMs="20" speedHz="1.02258062" width="1"
+              mix="1" id="0/2a10bdd"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.357429713" y="0.418918908">
+      <FILTER type="reverb" enabled="1" roomSize="1" damp="1" wet="0.333333343"
+              dry="0" width="1" mode="0" id="0/2a10bde"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.202811241" y="0.405405402">
+      <FILTER type="lowpass" enabled="1" frequency="584" mode="lowpass" id="0/2a10bdf"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.514056206" y="0.42567569">
+      <FILTER type="phaser" enabled="1" depth="0.100000001" rate="1.01258063"
+              feedback="0.947419345" id="0/2a10be0"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.198795184" y="0.804054081">
+      <FILTER type="lowpass" enabled="1" frequency="8359" mode="highpass" id="0/2a10be1"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.361445785" y="0.82432431">
+      <FILTER type="chorus" enabled="1" depthMs="20" speedHz="2.51290321" width="1"
+              mix="1" id="0/2a10be2"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.536144555" y="0.831081092">
+      <FILTER type="reverb" enabled="1" roomSize="1" damp="1" wet="0.333333343"
+              dry="0" width="1" mode="0" id="0/2a10be3"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.151315793" y="0.0675675645">
+      <FILTER type="text" title="Read Me" body="Great for: Nothing!&#10;&#10;Creates a big noisy mess out of the track."
+              id="0/2a3c851"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/2a10bdd" srcPin="0" dst="0/0" dstPin="0"/>
+    <FILTERCONNECTION src="0/2a10bdd" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10bdd" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a10bde" srcPin="1" dst="0/2a10bdd" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10bde" srcPin="2" dst="0/2a10bdd" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a10bdf" srcPin="1" dst="0/2a10bde" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10bdf" srcPin="2" dst="0/2a10bde" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/2a10bdf" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/2a10bdf" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a10bde" srcPin="1" dst="0/2a10be0" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10bde" srcPin="2" dst="0/2a10be0" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a10be0" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10be0" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/2a10be1" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/2a10be1" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a10be1" srcPin="1" dst="0/2a10be2" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10be1" srcPin="2" dst="0/2a10be2" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a10be2" srcPin="1" dst="0/2a10be3" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10be2" srcPin="2" dst="0/2a10be3" dstPin="2"/>
+    <FILTERCONNECTION src="0/2a10be3" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/2a10be3" srcPin="2" dst="0/0" dstPin="2"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="output 1 (left)" midi="0"/>
+    <OUTPUT name="output 2 (right)" midi="0"/>
+  </RACKFILTER>
+</PRESET>

@@ -1,0 +1,56 @@
+00:00:00.000112 main     VirtualBox XPCOM Server 7.2.0 r170228 linux.amd64 (Aug 14 2025 19:02:36) release log
+00:00:00.000114 main     Log opened 2025-08-27T23:44:38.484505000Z
+00:00:00.000114 main     Build Type: release
+00:00:00.000115 main     OS Product: Linux
+00:00:00.000116 main     OS Release: 6.16.3-2-cachyos
+00:00:00.000116 main     OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 25 Aug 2025 16:15:18 +0000
+00:00:00.000132 main     DMI Product Name: 16Z90S-H.ADB9U1
+00:00:00.000136 main     DMI Product Version: 0.1
+00:00:00.000139 main     Firmware type: UEFI
+00:00:00.000184 main     Secure Boot: Disabled
+00:00:00.000202 main     Host RAM: 31589MB (30.8GB) total, 30305MB (29.5GB) available
+00:00:00.000204 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000204 main     Process ID: 9103
+00:00:00.000204 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.003334 main     IPC socket path: /tmp/.vbox-hwks-ipc/ipcd
+00:00:00.005812 DCon01   VirtualBox: object creation starts
+00:00:00.005941 DCon01   Home directory: '/home/hwks/.config/VirtualBox'
+00:00:00.015213 DCon01   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlan0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.015937 DCon01   HostDnsMonitor: initializing
+00:00:00.016107 DCon01   NAT: resolv.conf: nameserver 127.0.0.53
+00:00:00.016110 DCon01   NAT: resolv.conf: ignoring "options edns0 trust-ad"
+00:00:00.016114 DCon01   HostDnsMonitor: updating information
+00:00:00.016122 DCon01   HostDnsMonitor: old information
+00:00:00.016123 DCon01     no server entries
+00:00:00.016123 DCon01     no domain set
+00:00:00.016124 DCon01     no search string entries
+00:00:00.016124 DCon01   HostDnsMonitor: new information
+00:00:00.016125 DCon01     server 1: 127.0.0.53
+00:00:00.016125 DCon01     domain: mines.edu
+00:00:00.016126 DCon01     search string 1: mines.edu
+00:00:00.016849 DCon01   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
+00:00:00.016907 DCon01   VD: VDInit finished with VINF_SUCCESS
+00:00:00.016999 DCon01   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.017606 DCon01   VirtualBox: object created
+00:00:00.370846 DCon04   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={d5dcece0-b202-4416-a138-03502784cc07} aComponent={HostWrap} aText={Could not load the Host USB Proxy service: VERR_NOT_FOUND}, preserve=false aResultDetail=0
+00:00:00.694216 DCon04   Saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.699339 DCon04   Finished saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml"
+00:00:06.629228 DCon04   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={925084b0-625f-422f-a67d-0ede1880a56c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:06.997984 DCon04   Saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.024142 DCon04   Finished saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml"
+00:01:02.456865 DCon04   Saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:01:02.461129 DCon04   Finished saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml"
+00:02:19.597249 DCon04   Saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:19.599404 DCon04   Finished saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml"
+00:02:19.601095 DCon04   Saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:02:19.603022 DCon04   Finished saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml"
+00:03:04.958732 DCon04   ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={Could not find a registered machine named '{00000000-0000-0000-0000-000000000000}'}, preserve=false aResultDetail=0
+00:03:05.275334 DCon09   Saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:05.280953 DCon09   Finished saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml"
+00:03:05.422655 DCon09   Saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:03:05.427757 DCon09   Finished saving settings file "/home/hwks/.config/VirtualBox/VirtualBox.xml"
+00:03:10.947792 main     VirtualBox: object deletion starts
+00:03:10.948414 main     HostDnsMonitor: shutting down ...
+00:03:10.948863 main     HostDnsMonitor: shut down
+00:03:10.960009 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:03:10.960094 main     VirtualBox: object deleted

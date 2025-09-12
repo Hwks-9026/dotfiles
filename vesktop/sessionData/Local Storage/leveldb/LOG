@@ -1,0 +1,27 @@
+2025/09/12-09:59:05.992 df1 Reusing MANIFEST /home/hwks/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/09/12-09:59:05.996 df1 Recovering log #474
+2025/09/12-09:59:06.000 df1 Reusing old log /home/hwks/.config/vesktop/sessionData/Local Storage/leveldb/000474.log 
+2025/09/12-10:00:06.003 df1 Level-0 table #478: started
+2025/09/12-10:00:06.008 df1 Level-0 table #478: 57566 bytes OK
+2025/09/12-10:00:06.009 df1 Delete type=0 #474
+2025/09/12-10:14:50.829 df1 Level-0 table #480: started
+2025/09/12-10:14:50.844 df1 Level-0 table #480: 64491 bytes OK
+2025/09/12-10:14:50.846 df1 Delete type=0 #477
+2025/09/12-10:14:50.846 df1 Compacting 4@0 + 1@1 files
+2025/09/12-10:14:50.849 df1 Generated table #481@0: 115 keys, 41695 bytes
+2025/09/12-10:14:50.849 df1 Compacted 4@0 + 1@1 files => 41695 bytes
+2025/09/12-10:14:50.851 df1 compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/09/12-10:14:50.851 df1 Delete type=2 #473
+2025/09/12-10:14:50.851 df1 Delete type=2 #471
+2025/09/12-10:14:50.851 df1 Delete type=2 #475
+2025/09/12-10:14:50.851 df1 Delete type=2 #478
+2025/09/12-10:14:50.851 df1 Delete type=2 #480
+2025/09/12-12:41:35.853 df2 Level-0 table #483: started
+2025/09/12-12:41:35.858 df2 Level-0 table #483: 66003 bytes OK
+2025/09/12-12:41:35.860 df2 Delete type=0 #479
+2025/09/12-13:02:23.036 df2 Level-0 table #485: started
+2025/09/12-13:02:23.042 df2 Level-0 table #485: 59252 bytes OK
+2025/09/12-13:02:23.044 df2 Delete type=0 #482
+2025/09/12-13:28:46.145 df2 Level-0 table #487: started
+2025/09/12-13:28:46.148 df2 Level-0 table #487: 39714 bytes OK
+2025/09/12-13:28:46.150 df2 Delete type=0 #484

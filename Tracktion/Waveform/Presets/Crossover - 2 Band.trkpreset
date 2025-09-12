@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PRESET name="Crossover - 2 Band" tags="Rack" builtIn="1" path="/home/hwks/.config/Tracktion/Waveform/Presets"
+        filename="Crossover - 2 Band.trkpreset">
+  <RACKFILTER name="Crossover - 2 Band" id="13d413a9">
+    <FILTERINSTANCE x="0.449093431" y="0.858657241">
+      <FILTER type="lowpass" enabled="1" frequency="800" mode="lowpass" id="0/13d41261"
+              quickParamName="frequency"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.684797764" y="0.600706697">
+      <FILTER type="4bandEq" enabled="1" phaseInvert="1" loGain="0" loFreq="80"
+              loQ="0.5" hiGain="0" hiFreq="17000" hiQ="0.5" midGain1="0" midFreq1="3000"
+              midQ1="0.5" midGain2="0" midFreq2="5000" midQ2="0.5" id="0/13d41262"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.917712688" y="0.293286204">
+      <FILTER type="level" showMidi="0" id="0/13d41263"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.91492331" y="0.858657241">
+      <FILTER type="level" showMidi="0" id="0/13d41264"/>
+    </FILTERINSTANCE>
+    <FILTERINSTANCE x="0.110169493" y="0">
+      <FILTER type="text" title="read me" body="This rack is designed to split the input signal into separate low and high frequency bands, which can then be processed seperarately.&#10;&#10;The Low/High Pass Filter determines the cross-over frequency, and this can be adjusted with the quick controller on the filter itself. The high frequencies feed the first pair of rack outputs, while the low frequencies feed the second pair. &#10;&#10;The native EQ filter is used just to invert the polarity of the signal, and should be left set flat.&#10;&#10;DW"
+              id="0/9034d8f"/>
+    </FILTERINSTANCE>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/13d41261" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/13d41261" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="1" dst="0/13d41262" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="2" dst="0/13d41262" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="1" dst="0/13d41264" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41261" srcPin="2" dst="0/13d41264" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41262" srcPin="1" dst="0/13d41263" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41262" srcPin="2" dst="0/13d41263" dstPin="2"/>
+    <FILTERCONNECTION src="0/0" srcPin="1" dst="0/13d41263" dstPin="1"/>
+    <FILTERCONNECTION src="0/0" srcPin="2" dst="0/13d41263" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41263" srcPin="1" dst="0/0" dstPin="1"/>
+    <FILTERCONNECTION src="0/13d41263" srcPin="2" dst="0/0" dstPin="2"/>
+    <FILTERCONNECTION src="0/13d41264" srcPin="2" dst="0/0" dstPin="4"/>
+    <FILTERCONNECTION src="0/13d41264" srcPin="1" dst="0/0" dstPin="3"/>
+    <FILTERCONNECTION src="0/0" srcPin="0" dst="0/0" dstPin="0"/>
+    <INPUT name="midi input" midi="0"/>
+    <INPUT name="input 1 (left)" midi="0"/>
+    <INPUT name="input 2 (right)" midi="0"/>
+    <OUTPUT name="midi output" midi="0"/>
+    <OUTPUT name="High (left)" midi="0"/>
+    <OUTPUT name="High (right)" midi="0"/>
+    <OUTPUT name="Low (left)" midi="0"/>
+    <OUTPUT name="Low (right)" midi="0"/>
+  </RACKFILTER>
+</PRESET>
